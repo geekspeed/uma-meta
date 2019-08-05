@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="move_tab_left" mtime="1505803023" type="string">
+		<stringvalue>&lt;Ctrl&gt;&lt;Shift&gt;Page_Up</stringvalue>
+	</entry>
+</gconf>

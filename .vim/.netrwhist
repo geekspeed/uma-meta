@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/saraboju/GIT/qca953x_ecos/ecos/ecosap/shell'
+let g:netrw_dirhist_2='/home/saraboju/GIT/qca953x_ecos/ecos/ecosap'
+let g:netrw_dirhist_3='/home/saraboju/mIsc/incase'
+let g:netrw_dirhist_4='/home/saraboju/mIsc/incase/dl'

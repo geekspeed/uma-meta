@@ -1,0 +1,810 @@
+sudo -i
+l
+ls
+df
+df -h
+l
+s
+ls
+nmtui-connect 
+ifconfig
+sudo apt install net-tools
+ls /etc/apt/
+cd /etc/apt/
+ls
+vim sources.list
+vi
+vi sources.list
+sudo syu
+sudo su
+ls
+sudo apt install net-tools
+ifconfig 
+ls
+bashr
+uname -a
+ls
+cd
+ls
+cd ..
+l
+cd -
+ls
+sudo reboot
+file /dev/fd/1 
+man fileno
+ls
+ps -ef
+gdb attach 26000
+sudo gdb attach 26000
+vim sb.c 
+gcc gd.c 
+vim
+gcc gd.c 
+./a.out 
+sudo ./a.out 
+vim gd
+ls -i
+sudo ./a.out 2969
+df
+sudo ./a.out 2969
+sudo debugfs /dev/nvme0n1p8
+la
+git diff
+git add content.c 
+vimdiff gd.c gd_ext4.c 
+cat gd.c 
+git status 
+git add gd.c 
+git diff\
+git add -u
+git commit -s -a
+git config --global user.email "umasraz@gmail.com"
+git config --global user.name "umaraju saraboju"
+git commit -s 
+git config --global core.editor vim
+git push origin master 
+sudo ./a.out 2969
+sudo ./a.out 2969 | less
+;s
+ls
+get -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+$ sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
+sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
+$ sudo apt-get update
+$ sudo apt-get install google-chrome-stable
+sudo apt-get install google-chrome-stable
+google-chrome-stable 
+apt purge chromium-browser
+sudo apt purge chromium-browser
+ls
+xrandr 
+google-chrome-stable 2>/dev/null &
+cd Downloads/
+ls
+ifconfig 
+l
+ls
+adb
+sudo apt install adb
+ls
+tar xf umum.tar -C ..
+tar xf mIsc.tar -C ..
+cd ..
+l
+mkdir me
+ls
+mv journeY/ extended_journeY/ mIsc/ me
+cd me
+l
+s
+ls
+cd mIsc/
+l
+cd ext4/
+;s
+ls
+df
+\ls
+vim gd_ext4.c 
+gcc gd_ext4.c
+sudo apt install gcc
+\[[\\\\\ sudo apt install gcc
+gcc gd_ext4.c
+ls
+./~a.
+./a.out 
+sudo ./a.out
+debugfs 
+df
+sudo debugfs /dev/nvme0n1p8
+sudo ./a.out | less
+ls
+./a.out 
+ls
+rm a.out 
+ls
+cd ..
+l
+ls
+cd dl
+ls
+make
+sudo apt install make
+make
+make c
+s
+make
+s
+./release 
+cat /proc/cpuinfo 
+l
+s
+ls
+s
+l
+make v
+make c
+cd ..
+l
+google-chrome-stable 2>/dev/null &
+ls
+cd ..
+https://gs.globaledgesoft.com/root/qca953x_ecos.git 
+mkdir GIT
+cd GIT
+git clone https://gs.globaledgesoft.com/root/qca953x_ecos.git 
+sudo apt install git 
+rcl
+git clone https://gs.globaledgesoft.com/root/qca953x_ecos.git 
+export GIT_SLL_NO_VERIFY=1
+git clone https://gs.globaledgesoft.com/root/qca953x_ecos.git 
+export GIT_SLL_NO_VERIFY=1
+export GIT_SSL_NO_VERIFY=1
+git clone https://gs.globaledgesoft.com/root/qca953x_ecos.git 
+ls
+ls /dev/fd/0 
+cat  /dev/fd/0 
+man dev
+vim /dev/fd/0 
+file /dev/fd/0
+sudo echo uma > /dev/fd/1 
+sudo echo uma > /dev/fd/2
+ls /dev/pts/1 
+o
+pkill vim
+l
+cd qca953x_ecos/
+ls
+git checkout dev_integration
+lshw 
+lspc
+lspci
+lsusb 
+bluetoothctl 
+ls
+cd
+cd me/mIsc/
+l
+vim sb.full 
+d
+l
+cd ext4/
+l
+df
+vim sb.c 
+gcc sb.c
+sudo ./a.out 
+vim
+gcc sb.c
+gcc sb.c -ggdb3\\
+gcc sb.c -ggdb3
+sudo ./a.out 
+qls
+google-chrome
+chromium-browser
+sudo apt install chromium-browser
+ifconfig 
+nm-connection-editor 
+nmtui-connect 
+sudo apt install chromium-browser
+chromium-browser 
+\\\; 
+ls
+cd
+ls
+find
+ls
+cd me/
+s
+ls
+cd mIsc/
+s
+ls
+cd incase/
+lls
+l
+ls
+mame
+make
+ks
+ls
+./release 
+ls
+make c
+ls
+make clean 
+ls
+vim ins
+vim put.c 
+ls
+;s
+ls
+l
+ls
+df
+hci
+bluetoothctl 
+ls
+os
+ls
+xargs 
+upower -e
+upower -i /org/freedesktop/UPower/devices/battery_BAT0
+upower -e
+upower -i /org/freedesktop/UPower/devices/battery_BAT0 | grep -E "state|to\ full|percentage"
+acpi -v
+sudo apt install acpi
+acpi -v
+
+sudo acpi -V
+upower -i /org/freedesktop/UPower/devices/battery_BAT0 | grep -E "state|to\ full|percentage"
+iwconfig 
+upower -i /org/freedesktop/UPower/devices/battery_BAT0 | grep -E "state|to\ full|percentage"
+upower -i /org/freedesktop/UPower/devices/battery_BAT0 
+upower -e
+
+upower -i /org/freedesktop/UPower/devices/battery_BAT0 
+upower -e
+upower -i /org/freedesktop/UPower/devices/keyboard_hid_0018o04F3o2593x0005_battery
+upower -i /org/freedesktop/UPower/devices/battery_BAT0 
+upower -i /org/freedesktop/UPower/devices/battery_BAT0 | grep -E "state|to\ full|percentage"
+upower -i /org/freedesktop/UPower/devices/keyboard_hid_0018o04F3o2593x0005_battery | grep -E  "state|to\ full|percentage"
+upower -i /org/freedesktop/UPower/devices/battery_BAT0 | grep -E "state|to\ full|percentage"
+upower -e
+upower -i /org/freedesktop/UPower/devices/line_power_ADP1
+ls
+cd ..
+l
+cd ext4/
+l
+ls -i
+gcc content.c 
+sudo ./a.out 3260
+vim content.c 
+df 
+vim
+vim content.c 
+gcc content.c 
+sudo ./a.out 3260
+vim content.c 
+gcc gd.c 
+sudo ./a.out 3260
+/dev/nvme0n1p8
+sudo debugfs /dev/nvme0n1p8
+/dev/nvme0n1p8
+reset
+sudo ./a.out 3260
+sudo ./a.out 3260 | less
+sudo debugfs /dev/nvme0n1p8
+vim gd.c 
+sudo ./a.out 3260 | less
+sudo debugfs /dev/nvme0n1p8
+sudo ./a.out 3260 | less
+vim gd.c 
+gcc gd.c 
+./release 
+sudo ./a.out 3260 | less
+vim
+gcc gd.c 
+sudo ./a.out 3260 | less
+sudo debugfs /dev/nvme0n1p8
+vim
+sudo ./a.out 3260 | less
+sudo debugfs /dev/nvme0n1p8
+sudo ./a.out 3260 | less
+vim
+gcc gd.c 
+sudo ./a.out 3260 | less
+sudo debugfs /dev/nvme0n1p8
+vim
+sudo ./a.out 3260 | less
+sudo debugfs /dev/nvme0n1p8
+ls
+./a.out 
+ls -i
+./a.out 3260
+sudo ./a.out 3260
+gcc inode.c 
+sudo ./a.out 3260
+gcc content.c 
+sudo ./a.out 3260
+s
+ls
+upower -i /org/freedesktop/UPower/devices/battery_BAT0 | grep -E "state|to\ full|percentage"
+acpi -V
+upower -i /org/freedesktop/UPower/devices/battery_BAT0 | grep -E "state|to\ full|percentage"
+date
+upower -i /org/freedesktop/UPower/devices/battery_BAT0 | grep -E "state|to\ full|percentage"
+bluetoothctl 
+l
+ls
+vim sb.c 
+git
+gi content.c 
+l
+ls
+nmtui-connect 
+l
+ls
+cd ..
+l
+vim inode.c 
+df
+cd spi/
+l
+make
+ls
+vi
+lsm
+lsmod 
+lsmod |less
+cd /boot/
+ls
+vim config-4.15.0-20-generic 
+ls
+upower -i /org/freedesktop/UPower/devices/battery_BAT0 | grep -E "state|to\ full|percentage"
+date
+upower -i /org/freedesktop/UPower/devices/battery_BAT0 | grep -E "state|to\ full|percentage"
+cd
+cd me/
+cd mIsc/incase/
+s
+ls
+vim misc.c 
+vim delete.c 
+vim search.c 
+ls
+cd ..d
+cd ../d
+cd ../dl/
+ls
+vim put.c 
+ls
+cd
+s
+ls
+cd ,
+cd me/
+s
+ls
+cd extended_journeY/
+l
+cd binary_searching_made_complicated/
+l
+make
+vim /usr/include/uma.h
+sudo vim /usr/include/uma.h
+ls
+make
+make c 
+make
+ls
+cd ..
+l
+cd ..
+cd mIsc/
+vim _val.c 
+s
+ls
+s
+ls
+vim /usr/include/_val.h
+sudo vim /usr/include/_val.h
+l
+cd -
+cd extended_journeY/
+l
+cd binary_searching_made_complicated/
+make
+cp ../../mIsc/_val.
+cp ../../mIsc/_val.c 
+cp ../../mIsc/_val.c .
+viim Makefile 
+vim main.c 
+make
+./r
+./target 
+1
+./target 
+vim insert.c 
+vim Makefile 
+gdb ./target 
+vim insert.c 
+gdb ./target 
+ls
+make
+./fa
+./target 
+gdb ./target 
+cd ..
+cd mIsc/
+cd incase/
+l
+make 
+./r
+./release 
+sudo shutdown -rvnow
+sudo shutdown -r now
+ls
+cd me/
+ls
+cd journeY/
+l
+cd d_struct/
+l
+cd sorting/
+ls
+cd source/
+vim merge_sort.c 
+vim quick_sort.c 
+ls
+vim selection_sort.c 
+ls
+makw
+make
+cd ..
+l
+vim source/quick_sort.c 
+ls
+cd ..
+l
+single_list/  tree/
+disp.c  double_list/  insert.o  linked_list.o  searching/  sorting/
+heihei@heihei:~/me/journeY/d_struct$ 
+single_list/  tree/
+disp.c  double_list/  insert.o  linked_list.o  searching/  sorting/
+heihei@heihei:~/me/journeY/d_struct$ 
+single_list/  tree/
+disp.c  double_list/  insert.o  linked_list.o  searching/  sorting/
+heihei@heihei:~/me/journeY/d_struct$ 
+single_list/  tree/
+disp.c  double_list/  insert.o  linked_list.o  searching/  sorting/
+heihei@heihei:~/me/journeY/d_struct$ 
+single_list/  tree/
+disp.c  double_list/  insert.o  linked_list.o  searching/  sorting/
+heihei@heihei:~/me/journeY/d_struct$ 
+heihei@heihei:~/me/journeY/d_struct$ heihei@heihei:~/me/journeY/d_struct$ 
+bash: heihei@heihei:~/me/journeY/d_struct$: No such fileheihei@heihei:~/me/journeY/d_struct$ heihei@heihei:~/me/journeY/d_struct$ 
+heihei@heihei:~/me/journeY/d_struct$ 
+cd ../task_ment/
+ls
+vim pro_con.c 
+man sem_overview 
+man sem_init 
+cd ..
+cd umasraZ/rough/
+ls
+cd ..
+l
+cd ..
+l
+find| grep quq
+find| grep que
+cd ..
+find| grep que
+cd me/
+ls
+cd journeY/umasraZ/mr
+cd journeY/umasraZ/rough/
+vim q.c
+vim
+lsb_release -a
+sudo apt install -y fprintd libpam-fprintd
+sudo pam-auth-update
+sudo ls
+sudo -k
+sudo ls
+reboot
+lsmod  | grep fi
+ls
+reboot
+adb devices 
+adb shell 
+l
+ls
+yugiho]='
+\]{ '[;p> '[;D> 
+
+
+
+shutdown -r now
+;5~
+ls
+xrandr 
+upower -i /org/freedesktop/UPower/devices/battery_BAT0 | grep -E "state|to\ full|percentage"
+nmtui
+l
+lsb_release 
+lsb_release -a
+ks
+ls
+upower -e
+upower -i /org/freedesktop/UPower/devices/battery_BAT0
+python3
+ls
+cd journeY/
+ls
+tar tf uma_all.tar 
+tar tf uma_all.tar  | less
+s
+ls
+ls page_
+ls
+ls re
+~~
+ls
+l
+cd
+cd Downloads/
+ls
+rm umas_all_oct17\ \(1\).zip 
+zip -d umas_all_oct17.zip 
+unzip umas_all_oct17.zip
+l]s
+l
+unzip py.zip 
+ls
+ls python_galaXy/
+ls
+ls python_galaXy/ -a
+ls
+rm py
+rm python_galaXy/
+rm python_galaXy/ -d
+man zip 
+less py.zip 
+less umas_all_oct17.zip 
+tar tf alltar_oct12.tar 
+tar tf alltar_oct12.tar  |less
+ls
+tar xf alltar_oct12.tar 
+cd .e
+cd .eGo/
+LS
+ls
+cat file 
+rm file 
+ls
+cd zourneY/
+l
+cd GES_stack/
+ls
+vim network_stack.c 
+l
+ls
+cd .
+l
+cd ..
+l
+ls
+cd ..
+l
+ls *
+rm *
+ls
+cd .eGo/
+l
+cd ..
+upower -i /org/freedesktop/UPower/devices/battery_BAT0 | grep -E "state|to\ full|percentage"
+shutdown -r now
+adb devices 
+adb shell 
+adb  wm
+adb
+cd me/
+l
+cd mIsc/
+l
+vim spi/
+ls
+find -name spi.c
+cd spi/
+l
+vim spikmod.c 
+cd ..
+cd journeY/
+ls
+cd network_ing/
+ls
+cd ..
+l
+tar tf uma_all.tar 
+tar tf uma_all.tar |less
+laa
+ls
+cd ..
+l
+ls
+sd
+df
+cd /media/heihei/20160907_110626/
+l
+chmod +x adb_config_Linux_OSX.sh 
+cp adb_config_Linux_OSX.sh /tmp/
+cd /tmp/
+chmod +x adb_config_Linux_OSX.sh 
+./adb_config_Linux_OSX.sh 
+s
+ls
+cd /media/heihei/
+l
+cd B539-B15C/
+l
+cd ..
+l
+df
+dmesg 
+ls /dev/sda2
+ls
+ls /dev/sda2
+sudo fsck /dev/sda1 
+fdf
+df
+umount
+sync
+fdisk -l /dev/sda
+sudo fdisk -l /dev/sda
+sudo fdisk /dev/sda
+mkfs.ext4 /dev/sda
+sudomkfs.ext4 /dev/sda
+sudo mkfs.ext4 /dev/sda
+umount /dev/sda1 
+sudo mkfs.ext4 /dev/sda
+sync
+df
+ls
+pth
+python3
+ls
+cd
+k
+ls
+cd me/
+s
+ls
+cd GIT/
+ls
+cs qca953x_ecos/
+l
+ls
+cd ..
+l
+cd journeY/
+l
+ls new_start/
+cd fun_ptrs/
+l
+vim simple_array.c 
+gcc simple_array.c
+./a.out 
+vim
+,
+ls
+vim simple_typedef.c 
+ls
+rm a.out 
+ls
+cd ..
+l
+ls signals/
+k
+cd signals/
+l
+./a.out 
+gcc sig_bus2.c 
+./a.out 
+gcc sig_bus2.c -m32
+vim sig_bus2.c 
+gcc sig_bus2.c -m32
+sudo dpkg --add-architecture i386
+sudo apt-get update
+sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386
+./a.out 
+./a.
+gcc sig_bus2.c -m32
+apt-get install libc-dev
+sudo apt-get install libc-dev
+sudo apt-get install glibc-dev
+sudo find /usr/ -name crti*
+LIBRARY_PATH=/usr/lib/x86_64-linux-gnu/:$LIBRARY_PATH
+export LIBRARY_PATH
+gcc sig_bus2.c -m32
+ls /usr/lib/*/libgcc*
+cd ..
+l
+cd ..
+l
+ls
+ls /boot/
+ddf
+df
+df -h
+git clone https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
+bluetooth
+bluetoothctl 
+df
+nautilus .
+ls /dev/nvme0n1p3 
+mkdir /mnt/windows
+sudo mkdir /mnt/windows
+mkdir /mnt/windows/ /dev/nvme0n1p3
+mkdir /dev/nvme0n1p3 /mnt/windows/ 
+ls /mnt/windows/
+l
+sudo mount /dev/nvme0n1p3 /mnt/windows/ 
+ls /mnt/windows/
+ls
+df
+cd /media/heihei/Windows/
+l
+du -sh
+mount
+ls /dev/nvme0n1p3
+ls
+cd Users/
+k
+ls
+cd Heihei/
+l
+ls
+ls Downloads/
+ls
+cd /media/heihei/Windows/
+du 0sh
+du -sh
+df
+mount
+/media/heihei/Windows/pagefile.sys 
+ls
+man du
+du -shL
+sudi du -shL
+sudo du -shL
+ls
+ls Windows/
+l
+ls
+s
+ls
+l'
+
+
+
+
+
+;
+'
+ks
+upower -i /org/freedesktop/UPower/devices/battery_BAT0 | grep -E "state|to\ full|percentage"
+upower -i /org/freedesktop/UPower/devices/battery_BAT0
+ls
+ls hp
+tes
+ls
+l
+shutdown 
+date
+shutdown -c
+shutdown -r now

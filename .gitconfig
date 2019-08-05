@@ -1,0 +1,19 @@
+[user]
+	email = umasraz@gmail.com
+	name = Saraboju Umaraju
+[core]
+	editor = vim
+[credential "https://gs.globaledgesoft.com"]
+        username = u.saraboju
+
+[alias]
+	br = branch
+	co = checkout
+	st = status
+
+[commit]
+	template = /home/heihei/.gittemplate
+[diff]
+	tool = meld
+[filter "trimWhitespace"]
+	clean = git-stripspace
