@@ -227,9 +227,12 @@ LS_COLORS=$LS_COLORS:'*.tar.bz2=38;5;084:'
 
 vim(){
 	
-	if [[ -f "`xclip -o`" ]] 
+	if [[ -z $1 ]] 
 	then
-		/usr/bin/vim `xclip -o` && return 
+		if [[ -f "`xclip -o`" ]] 
+		then
+			/usr/bin/vim `xclip -o` && return 
+		fi
 	fi
 	if [[ "$1" == "-t" ]] 
 	then
