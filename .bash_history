@@ -8442,3 +8442,3623 @@ sudo su
 ls
 nautilus .
 cd
+ls
+new
+c
+cd ecos/
+ls
+ls -a
+ps -ef | grep tcl
+ls
+l
+ls
+cd gnutools/mipsisa32-elf/
+ls
+cd mipsisa32-elf/
+ls
+cd bin/
+ls
+./gcc 
+cd //
+cd -
+cd ..
+ls
+cd ..
+ls
+ls bin/
+cd bin/
+pwd
+bashrc 
+cd Downloads/
+ls
+file ecosconfig 
+./ecosap/
+chmod +x ecosconfig 
+./ecosconfig 
+apt-cache search tcl
+apt-cache search tcl | grep 8.6
+agi tk8.6-dev
+apt-cache search tcl | grep 8.6
+./ecosconfig 
+sudo cp ./ecosconfig /bin/
+cd
+cd me/
+ls
+cd GIT/
+ls
+cd qca953x_ecos/
+ls
+git checkout -
+l
+cd ecos/
+cd ecosap/
+export ECOS_REPOSITORY=/home/heihei/me/GIT/qca953x_ecos/ecos/packages/
+make
+make toolchain_build 
+ls /opt/qca953x/qca953x_ecos/u-boot/build/gcc-4.3.3/
+cd /opt/qca953x/qca953x_ecos/u-boot/build/gcc-4.3.3/
+find | grep gcc$
+C
+ls
+cd
+cd Downloads/
+C
+ls ecos-install.tcl 
+sh ecos-install.tcl
+tclsh
+C
+sh ecos-install.tcl
+strace sh ecos-install.tcl
+cd
+cd me/
+cd GIT/
+ls
+cd qca953x_ecos/
+cd ecos/
+cd ecosap/
+boom
+make
+ls
+make uboot
+bashrc 
+Y cd 
+bashrc 
+Y cd 
+X ls
+Y
+gcc-4.3.3 Makefile scripts toolchain_mips_32.tar.bz toolchain_mips_64.tar.bz util
+b
+ls
+cd ..
+s
+ls
+cd boot/
+ls
+cd u-boot/
+lsl
+ls
+readelf -h u-boot
+readelf -h u-boot bootstrap
+ls
+cd /media/heihei/b9913dc4-cfc4-4eee-b6a4-ad82f6d74dff/
+l
+cd linux-GIT/
+vim -t MODULE_DEVICE_TABLE
+s
+dmesg 
+d
+ls
+evince ldd3.pdf 
+b evince ldd3.pdf 
+cd ..
+ls
+git init 
+git add .bash*
+ls
+git add .vim
+ls
+ls .
+la
+git add .bakup .gdbinit .gitconfig .gittemplate .indent.pro .new_bkup .persistent_history .profile .python_history .viminfo .vimrc .vim
+ls
+git status 
+git commit -s 
+git log
+bashrc 
+ls
+git status 
+git diff .viminfo
+git remote .viminfo
+git rm .viminfo 
+s
+cd me/GIT/
+cd ec
+cd qca953x_ecos/ecos/ecosap/
+symbols ecosap
+symbols ecosap | grep sched
+symbols ecosap | grep queue
+symbols ecosap | grep mlq
+symbols ecosap | grep bit
+ls
+date
+ls
+file aplan.o
+cd
+vim failsafe
+l
+ls
+k
+l
+cd mydevice/
+ls
+cd character_device_driver/
+ls
+vim char_device.c 
+man fork
+find | grep spi
+cd ..
+find | grep spi
+find | grep spi | les
+find | grep spi | less
+cd me/
+cd mIsc/
+ls
+ls spi/
+cd spi/
+vim myspic.c 
+Y
+sudo su
+l
+vim bin.c 
+shutdown -h now
+cd me/mIsc/
+ls
+git log
+vim fork.c
+gcc fork.c 
+vim
+gcc fork.c 
+./a.
+bashrc 
+vimrc 
+l
+cd
+ls
+cd -
+s;
+ls
+vim bare.sh 
+cat mbuf 
+s
+ls
+./cfb.py 
+ls
+./bin
+./binarysearch 
+ls
+vim binarysearch.c 
+s
+vim binarysearch.c 
+/usr/bin/vim binarysearch.c
+vim binarysearch.c 
+ls
+vim script.sh 
+bashrc 
+xclip -o
+vim script.sh 
+man xclip
+[][][][][][][
+[[ ]]
+ls a
+ls -a
+file demo.bmp 
+ls in
+ls incase/
+cd incase/
+ls
+make
+ls
+./release 
+ls
+./release 
+bashrc 
+ncon 
+bashrc 
+bashrc
+\]
+openshit
+..
+cd ..
+ls
+cat check_sum 
+ls
+vim b.sh 
+./b.sh 
+ls
+ls xl
+ls
+price
+'
+
+
+<
+
+
+o
+
+
+
+' ' ' ' ' ' ' '
+L
+L="auxv"
+L
+$L
+L="auxv"'
+
+
+
+L="auxv"
+set -x
+ls
+ps
+;
+l
+./b.sh 
+C
+Y echo
+IO
+I/0
+umaraju
+cd
+ls
+cd Downloads/
+ls
+mkdir MIPS
+dc ..
+cd ..
+tar xf mipsisa32-elf\ \(1\).tar -C MIPS/
+cd MIPS/
+ls
+bashrc 
+cd mipsisa32-elf/
+ls
+find -name sys
+bashrc 
+ls
+cd mipsisa32-elf/bin/
+ls
+cd ..
+ls
+cd bin/
+ls
+pe
+pwd
+bashrc 
+s
+pwd
+which mipsisa32-elf-gcc
+cd ..
+which mipsisa32-elf-gcc
+l
+find -name sys
+cd 
+find -name sys
+mipsisa32-elf-gcc 1.c -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/sys/
+mipsisa32-elf-gcc 1.c -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/sys/ -nostdinc
+Y cd
+find -name lock.h
+pwd
+cd -
+mipsisa32-elf-gcc 1.c -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/sys/ -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include
+mipsisa32-elf-gcc 1.c -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/sys/ -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include --sysroor=/home/heihei/Downloads/MIPS/mipsisa32-elf/
+mipsisa32-elf-gcc 1.c -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/sys/ -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include --sysroot=/home/heihei/Downloads/MIPS/mipsisa32-elf/
+mipsisa32-elf-gcc 1.c -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/sys/ -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include -L /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/
+mipsisa32-elf-gcc 1.c -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/sys/ -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include -L /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/mips32r2/
+mipsisa32-elf-gcc 1.c -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/sys/ -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include -L /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/mips32r2/ -lgcc
+cd /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+readelf -s libmipsisa32-elf-sim.a  | grep _start
+cd ..
+ls
+cd lib
+ls
+cd ..
+find | grep libc
+find | grep lc
+find | grep lib
+find | grep libstd
+find | grep libstdc
+find | grep libstdc\.
+find | grep libstdc\\.
+find | grep libs
+find | grep lib
+cd 
+cd me/
+ls
+cd GIT/
+ls
+cd qca953x_ecos/ecos/ecosap/
+ls
+make
+export ECOS_REPOSITORY=/home/heihei/me/GIT/qca953x_ecos/ecos/packages/
+make
+ls /home/heihei/me/GIT/qca953x_ecos/ecos/packages//../ecosap/_ecos_build_//install/lib
+cd -
+cd /home/heihei/Downloads/MIPS/mipsisa32-elf/
+l
+find | grep ld
+cd ./mipsisa32-elf/lib/ldscripts/
+;s
+ls
+file *
+mipsisa32-elf-gcc 1.c -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/sys/ -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include -L /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/mips32r2/ -lgcc
+cd -
+cd
+mipsisa32-elf-gcc 1.c -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/sys/ -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include -L /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/mips32r2/ 
+mipsisa32-elf-gcc 1.c -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/sys/ -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include -L /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/mips32r2/  -nostdlibc
+mipsisa32-elf-gcc 1.c -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/sys/ -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include -L /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/mips32r2/  -nostdlib
+mipsisa32-elf-gcc 1.c -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/sys/ -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include -L /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/mips32r2/  -nostdlib -lc
+/home/heihei/ecos/gnutools/mipsisa32-elf/bin/../lib/gcc/mipsisa32-elf/4.3.2/../../../../mipsisa32-elf/bin/ld -verbose
+ls
+mipsisa32-elf-gcc 1.c -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/sys/ -I /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include -L /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/mips32r2/  -nostdlib -lc
+ls /home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/mips32r2/
+ls
+for each in `ls`; do readelf -s $each | grep _start; done
+ls
+cd -
+for each in `ls`; do readelf -s $each | grep _start; done
+ls
+Y cd
+for each in `ls`; do readelf -s $each | grep _start; done
+ls
+cd ..
+ls
+for each in `ls`; do readelf -s $each | grep _start; done
+ls
+readelf -s libgcc.a | grep _start
+ls mips2
+cd mips2
+for each in `ls`; do readelf -s $each | grep _start; done
+cd ..
+ls
+cd ..
+s
+ls
+cd .
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+grep -nR "
+grep -nR "_start"
+grep -nR "_start" -w
+ls lib
+echo $PATH
+bashrc 
+echo $PATH
+cd
+mipsisa32-elf-gcc 1.c
+find -name sys
+mipsisa32-elf-gcc 1.c -I ./Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/sys
+vim 1.c 
+mipsisa32-elf-gcc 1.c -I ./Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/sys
+./a.out 
+file a.out 
+mipsisa32-elf-gcc 1.c -I ./Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/sys -Wl,e main
+mipsisa32-elf-gcc 1.c -I ./Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/sys -Wl,-e main
+qemu-misp
+cd $ECOS_R
+cd $ECOS_RE
+sl
+cd
+cd me/
+cd GIT/
+ls
+cd qca953x_ecos/
+cd ecos/
+cd ecosap/
+ls
+sl
+ls
+cd  _ecos_build_/
+ls
+cd ..
+make
+export ECOS_REPOSITORY=/home/heihei/me/GIT/qca953x_ecos/ecos/packages/
+make
+cd -L/home/heihei/me/GIT/qca953x_ecos/ecos/packages//../ecosap/_ecos_build_//install/lib
+cd/home/heihei/me/GIT/qca953x_ecos/ecos/packages//../ecosap/_ecos_build_//install/lib
+cd /home/heihei/me/GIT/qca953x_ecos/ecos/packages//../ecosap/_ecos_build_//install/lib
+;s
+ls
+cd
+mipsisa32-elf-gcc 1.c 
+vim 1.c 
+mipsisa32-elf-gcc 1.c -L/home/heihei/me/GIT/qca953x_ecos/ecos/packages//../ecosap/_ecos_build_//install/lib
+mipsisa32-elf-gcc 1.c -L/home/heihei/me/GIT/qca953x_ecos/ecos/packages//../ecosap/_ecos_build_//install/lib -I -I/home/heihei/me/GIT/qca953x_ecos/ecos/packages//../ecosap/_ecos_build_//install/include
+mipsisa32-elf-gcc 1.c -L/home/heihei/me/GIT/qca953x_ecos/ecos/packages//../ecosap/_ecos_build_//install/lib -I -I/home/heihei/me/GIT/qca953x_ecos/ecos/packages//../ecosap/_ecos_build_//install/include/
+s
+find -name stdio.h
+mipsisa32-elf-gcc 1.c -L/home/heihei/me/GIT/qca953x_ecos/ecos/packages//../ecosap/_ecos_build_//install/lib -I -I/home/heihei/me/GIT/qca953x_ecos/ecos/packages//../ecosap/_ecos_build_//install/include/ -I ./Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/sys/
+cd -
+cd ..
+cd 
+cd -
+cd /
+cd -
+c
+cc
+c
+ls
+mipsisa32-elf-gdb ecosap
+apt-cache search zli
+apt-cache search zlib
+mipsisa32-elf-gdb ecosap
+sudo apt-get install zlib1g
+sudo apt-get install zlib1g:i386
+mipsisa32-elf-gdb ecosap
+mount -T NFS
+vim 1.c
+mipsisa32-elf-gcc 1.c
+which mipsisa32-elf-gcc
+ls /home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include
+mipsisa32-elf-gcc 1.c -I /home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include
+mipsisa32-elf-gcc 1.c -I /home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include -nostdinc
+man gcc
+mipsisa32-elf-gcc 1.c -I /home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include -nostdinc --no-sysroot-suffix -nostdinc 
+mipsisa32-elf-gcc 1.c -I /home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include -nostdinc  -nostdinc 
+mipsisa32-elf-gcc 1.c -I /home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include -nostdinc  -nostdinc --
+man gcc
+ls /home/heihei/ecos/gnutools/mipsisa32-elf/
+mipsisa32-elf-gcc 1.c -I /home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include -nostdinc  --d
+mipsisa32-elf-gcc 1.c --sysroot=/home/heihei/ecos/gnutools/mipsisa32-elf/
+mipsisa32-elf-gcc 1.c --sysroot=/home/heihei/ecos/gnutools/mipsisa32-elf/ -I/home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/
+ls /home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/
+cd /home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/
+cd /home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/4.3.2
+ls /home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/
+cd .
+cd ..
+find -name stdio.h
+ls /home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/ssp/
+cd -
+cd
+mipsisa32-elf-gcc 1.c --sysroot=/home/heihei/ecos/gnutools/mipsisa32-elf/ -I/home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/ssp
+mipsisa32-elf-gcc 1.c --sysroot=/home/heihei/ecos/gnutools/mipsisa32-elf/ -I/home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/ssp/
+ls /home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/ssp/
+mipsisa32-elf-gcc 1.c --sysroot=/home/heihei/ecos/gnutools/mipsisa32-elf/ -I/home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/ssp/ -nostdinc
+mipsisa32-elf-gcc 1.c --sysroot=/home/heihei/ecos/gnutools/mipsisa32-elf/ -I /home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/ssp/ -nostdinc
+vim 1.c 
+vim /home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/ssp/stdio.h 
+mipsisa32-elf-gcc 1.c  -I /home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/ssp/ -nostdinc
+mipsisa32-elf-gcc 1.c  -I/home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/ssp/ -nostdinc
+cd /home/heihei/ecos/gnutools/mipsisa32-elf/
+find -name sys
+ls lib/gcc//mipsisa32-elf/4.3.2/include/ssp/
+mipsisa32-elf-gcc 1.c  -I/home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/ssp/ -nostdinc
+cd
+mipsisa32-elf-gcc 1.c  -I/home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/ssp/ -nostdinc
+vim /home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/ssp/stdio.h:40
+ls
+vim /home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/ssp/stdio.h:40
+mipsisa32-elf-gcc 1.c --sysroot=/home/heihei/ecos/gnutools/mipsisa32-elf/ -I /home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/ssp/ -nostdinc
+ls /home/heihei/ecos/gnutools/mipsisa32-elf/lib/
+ls /home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/
+mipsisa32-elf-gcc -print -sysroot
+mipsisa32-elf-gcc -print-sysroot
+mipsisa32-elf-gcc -print-search-dirs
+man gcc
+ls
+cd Downloads/
+ls
+sh tcl
+ls tor-browse
+;s
+ls
+sh ecos-i*
+cd /tmp/
+ls
+cd gnutools/
+s
+ls
+cd mipsisa32-elf/
+find -name sys
+find -name ssp
+find -name stdio.h
+vim
+ls
+cd ..
+s
+cd
+cd /tm
+vim 11/c
+vim 11.c
+gcc 11.c
+python
+boom
+echo $PATH
+bashrc 
+ls
+cd
+ls
+mkdir
+mkdir for-ping
+ls
+vim myfunction.c
+vim Makefile
+mipsisa32-elf-gcc 1.c --sysroot=/home/heihei/ecos/gnutools/mipsisa32-elf/ -I /home/heihei/ecos/gnutools/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/ssp/ -nostdinc
+vim Makefile 
+make
+vim
+make
+vim
+make
+vim
+vim myfunction.c 
+ls
+rm myfunction.o
+make
+vim myfunction.c 
+make
+vim Makefile 
+make
+rm myfunction.o
+make
+vim myfunction.c 
+make\
+ls
+file myfunction.o
+readelf -s myfunction.o
+ls
+vim myfunction.c 
+vim Makefile 
+export CF="-I/home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/sys/ -I/home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/"
+mipsisa32-elf-gcc $CF myfunction.c -c -fpic
+ls
+mipsisa32-elf-gcc -shared myfunction.o -o uma.so
+cd -
+cd me/
+cd GIT/
+ls
+cd qca953x_ecos/
+cd ecos/
+cd ecosap/
+make cle
+export CF="-I/home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/sys/ -I/home/heihei/Downloads/MIPS/mipsisa32-elf/lib/gcc/mipsisa32-elf/4.3.2/include/"
+export ECOS_REPOSITORY=/home/heihei/me/GIT/qca953x_ecos/ecos/packages/
+make clean 
+mke
+make
+cd _ecos_build_/
+ls
+cd in
+cd ..
+cd install/
+ls
+cd lib/
+ls
+cd
+ls
+cd for-ping/
+ls
+vim myfunction.c 
+make
+ls
+file target.so 
+ls
+rm myfunction.o target.so 
+cat myfunction.c 
+cat Makefile 
+ls
+make
+ls
+file target.so 
+rm myfunction.o target.so 
+ls
+vim e.c
+reboot
+cd
+cd me
+l
+ls
+cd mIsc/
+ls
+cd ,,
+cd ..
+find| grep rev
+find| grep rev | grep num
+ls
+cd -
+ls
+cd mIsc/
+git pull
+git diff
+git stash 
+git pull
+git commit add .
+git commit -sa
+git add .
+git commit -sa
+git pull
+ls
+cd ..
+@fi
+find| grep rev | grep num
+cd me/mIsc/
+vim rev_num.c 
+ls
+man gcc
+man ld
+vim ptr.c
+vim p.c
+gcc p.c
+vim
+gcc p.c
+./a.
+vim
+cd st
+cd start/
+ls
+vim insert.c 
+cd ..
+l
+cd stack/
+s
+ls
+vim queue.c 
+l
+cd ..
+l
+ls
+cd co
+ls con
+git pull 
+git merge --abort 
+git pull -X theirs
+git pull --abort
+git status 
+git reset --hard HEAD^1
+git checkout -b new
+git stash 
+git pu
+git pull
+git remote 
+git remote -v
+git branch --set-upstream=origin/master new
+git pull
+git branch --set-upstream=origin/master 
+git branch --set-upstream-to=origin/master 
+git pull -X theirs
+ls
+ls config_before_change 
+ls
+ls co
+ls
+git fetch 
+git checkout -b new1 origin/master 
+ls co
+ls
+cd
+git clone https://github.com/saraboju-umaraju/linux-misc-programming.git
+cd linux-misc-programming/
+ls
+cd stack/
+ls
+cd ..
+find | grep conv
+cd incase/
+ls
+cd convert/
+ls
+ld
+ls
+vim mirror.c 
+gcc mirror.c 
+l
+rm mirror
+vim lca.c 
+ls
+vim cousin.c 
+ls
+vim sum.c 
+ls
+l
+cd ..
+l
+cd ..
+l
+find | grep revn
+find | grep rev
+vim rev_num.c 
+ls
+vim _crap.c 
+ls
+find | grep add
+cd incase/
+vim addone.c 
+make
+./release \
+vim main.c 
+grep -nR delete_last .
+vim main.c +55
+rmswp 
+vim
+ls
+./arraydup 
+vim arraydup.c 
+ls
+vim remdup.c 
+ls
+vim findNth.c 
+ls
+make clean 
+ls
+cd ..
+l
+m
+ls
+c
+cd me/mIsc/
+ls
+cd sta
+cd ..
+find | grep merge
+cim mergell.cc 
+vim mergell.cc
+ls
+A
+ls
+ps -ef
+ls
+./d
+vim d.c 
+mvm d.c
+ls
+r, d
+rm d
+ls
+vim mindist.c 
+./mindist
+vim pmiddle.c 
+./pmiddle 
+vim
+l
+vim sizeof.c 
+ls
+cd
+cd linux-misc-programming/
+ls
+vim cp.c
+l
+vim poll.c 
+ls
+cd ..
+svim
+find | grep lca
+find | grep lca | less
+vim me/mIsc/*/lca.c
+find | grep lca | less
+vim 
+reboot
+ls
+cd for-ping/
+vim myfunction.c 
+vim Makefile 
+cd ../me/GIT/qca953x_ecos/ecos/ecosap/
+make cle
+export ECOS_REPOSITORY=/home/heihei/me/GIT/qca953x_ecos/ecos/packages/
+make
+mke cle\
+make clean 
+make
+ls _ecos_build_/install/lib/
+cd
+cd for-ping/
+ls
+vim Makefile 
+rm
+rm *.so
+rm *.o
+ls
+rm e.c 
+mak
+make
+l
+vim Makefile 
+make
+ls
+rm *.o *.so
+ls
+rm target.a 
+ls
+cat Makefile 
+cat myfunction.c 
+make
+ls
+fil target.a 
+file target.a 
+readelf -s target.a 
+rm target.a 
+ls
+rm myfunction.o 
+ls
+cat Makefile 
+cat myfunction.c 
+make
+file target.a 
+ls
+readelf -s target.a 
+ls
+cd
+cd /media/heihei/b9913dc4-cfc4-4eee-b6a4-ad82f6d74dff/
+s
+ls
+cd l
+cd linux-GIT/
+vim -t strstr
+ls
+man memcpy
+man memmove 
+x
+cd /media/heihei/b9913dc4-cfc4-4eee-b6a4-ad82f6d74dff/
+ls
+cd linux-GIT/
+vim -t memcpy
+ls
+vim -t memcpy
+la
+vim 
+l
+ls
+ls LICENSES/
+ls
+l
+ls Makefile 
+ls
+vim -t strstr
+man pthread_create 
+man pthread_exit 
+man pthread_mutex_lo
+man pthread_mutex_lock
+man pthread_mutexman 
+man socket
+man 2 bind
+c
+cd
+cd me/
+cd journeY/
+ls
+cd task_ment/
+ls
+cd ..
+cd network_ing/
+ls
+vim server_net.c 
+vim server_all_ready.c 
+grep -nR bind
+vim server_all_ready.c 
+vim server_all_ready.c =54
+vim server_all_ready.c:56:
+cd ..
+find | grep spi
+find | grep spi |less
+vim me
+cd me/
+cd mIsc/
+cd spi/
+ks
+ls
+vim spikmod.c 
+l
+ls
+l
+ls
+sudo wd -u
+y
+adb devices 
+ls
+adb devices 
+sl
+cd
+l
+vim loop.c 
+ls
+find | grep suc
+vim
+cd
+cd
+vim memove.c
+gcc memove.c
+vim memove.c
+gcc memove.c
+im
+vim
+gdb ./memove 
+gdb ./memove -n
+./memove 
+l
+d
+ls
+l
+ls
+./ecos
+./ecosconfig 
+ls ecosap/
+rmm -rf ecosap/
+ls
+ls uma_meta.tar 
+l
+ls uma_meta.tar 
+cd
+sudo umount /mnt 
+sync
+sudo umount /mnt 
+lsof | grep mt
+lsof | grep mnt
+sudo umount /mnt 
+lsof | mnt
+lsof | grep mnt
+adb devices 
+lsof | grep mnt
+syn
+sync
+pkill adb
+sync
+lsof | grep mnt
+sudo umount /mnt 
+ls
+vim tst.c 
+find | loop
+find | grep loop
+cd me/
+ls
+cd mIsc/
+grep -nRi inorder
+cd  incase/
+vim inorderloop.c 
+vim
+vim incase/convert/mirror.c +21
+vim convert/mirror.c +21
+vim inorderloop.c 
+ls
+grep -nR loop
+grep -nR "current node as" .
+cd ..
+grep -nR "current node as" .
+ls
+vim roate.c 
+./roate 
+vim roate.c 
+ls
+ls mIsc/
+ls
+y
+ls /media/heihei/
+xdme
+dmesg 
+fd
+df
+dmesg 
+y
+dmesg 
+y
+reboot
+cat tmp.c 
+ls
+m
+d
+ls
+cd tor-browser_en-US/
+ls
+./start-tor-browser.desktop 
+s
+;s
+cd ..
+l
+cd /
+cd -
+cd ..
+ls
+cat m
+cat mi
+cat mIsc 
+cd -
+cd tor-browser_en-US/
+ls
+./start-tor-browser.desktop 
+ls
+cd Browser/
+ls
+find
+cd ..
+ls
+cd ..
+l\
+./TorBrowser/Tor/PluggableTransports/yaml/events.py./TorBrowser/Tor/PluggableTransports/yaml/events.py./TorBrowser/Tor/PluggableTransports/yaml/events.py
+reboot
+ls
+]
+wd =u
+wd -u
+sudo wd -u
+y
+ls
+man isalpha
+man isnum
+man isdigit
+vim rle.c
+;gcc rle.c 
+gcc rle.c 
+vim
+gcc rle.c 
+vim
+hostname
+gcc rle.c 
+catchsegv ./rle
+gcc rle.c -ggdb3
+catchsegv ./a.out 
+gdb ./a.out 
+gdb ./a.out -n
+vim
+gcc rle.c -ggdb3
+./a.out 
+gdb ./a.out -n
+vim
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+vim
+gcc rle.c -ggdb3
+./a.out 
+gdb -n ./a.
+gdb ./a.out -n
+vim
+gdb ./a.out -n
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+./a.out 
+gdb ./a.out -n
+vim
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+gdb ./a.out -n
+vim rle.c 
+gdb ./a.out -n
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+vim
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+./a.out 
+vimp
+./a.out |less
+vim
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+./a.out 
+vim
+gdb ./a.out -n
+vim
+gdb ./a.out -n
+gcc rle.c -ggdb3
+./a.out 
+vim
+gdb ./a.out -n
+vim
+vim rle.c 
+gcc rle.c -ggdb3
+./a.out 
+gdb ./a.out -n
+vim rle.c 
+gdb ./a.out -n
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+./.
+./a.out 
+vim
+gdb ./a.out -n
+gcc rle.c -ggdb3
+gdb ./a.out -n
+vim
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+gdb ./a.out -n
+vim
+gdb ./a.out -n
+gcc rle.c -ggdb3
+gdb ./a.out -n
+./a.out 
+vim
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+./.
+./a.out 
+vim
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+vim
+gcc rle.c -ggdb3
+gdb ./a.out -n
+vim
+gdb ./a.out -n
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+vim
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+./a.out 
+vim
+vim i2a.c
+lg++ i2a.c 
+g++ i2a.c 
+./a.out 
+vim
+@g
+g++ i2a.c 
+./a.out 
+vim
+g++ i2a.c 
+./a.out 
+vim
+g++ i2a.c 
+vim
+g++ i2a.c 
+vim
+lsg
+g++ i2a.c 
+./a.out 
+vim
+man sprintf 
+vim
+gcc rle.c -ggdb3
+vim
+gcc rle.c -ggdb3
+grep -nR swap .
+grep -nR swap . -w
+grep -nR swap . -w | grep define
+cd me/
+grep -nR swap . -w | grep define
+ls
+cd ext
+cd extended_journeY/
+ls
+grep -nR swap .
+vim 
+grep -nR swap .
+cd 
+grep -nR swap .
+gcc rle.c -ggdb3
+./a.out 
+vim
+gdb ./a.out 
+gdb ./a.out -n
+vim
+gdb ./a.out -n
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+./a.out 
+rm a.out 
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+./a.out 
+vim
+gcc rle.c -ggdb3
+./a.out 
+ls
+``
+LD
+ls
+vim vec.cpp 
+l
+./a.
+./A.
+../a.
+./a.out 
+ls
+vim rle.c 
+gcc rle.c 
+vim
+gcc rle.c 
+ls
+vim\
+ls
+y
+cd /mnt/
+ls
+cd _start/
+s
+ls
+cd _myspace/
+ls
+cd VIDS/
+ls
+cd div/
+ls
+Y look
+rmm 201704*
+l
+sync
+rm bent.magic 
+rmm bent.magic 
+look black.magic 
+~
+rmm  black.magic 
+rmm n*
+ls
+ls *2017*
+Y look
+rmm *2017*
+l
+sync
+cd /mnt/_start/_myspace/VIDS/div/
+ls
+file this1.magic 
+Y loo
+Y look
+ls
+rmm origin.magic 
+rmm initial.magic 
+ls
+look finger.magic 
+rmm finger.magic 
+l
+look pus.magic 
+rmm pus.magic 
+ls
+look tobesecond.magic 
+rmm tobesecond.magic 
+ls
+look tomorrow1.magic 
+rmm tomorrow1.magic 
+look tomorrow2.magic 
+rmm tomorrow2.magic
+ls
+look ice.magic 
+ls
+ls /tmp/
+cd /tmp/
+ls
+rmm bent.magic 
+rmm tmp.1*
+ls
+cd -
+ls
+rmm ice.magic 
+look overdres.magic 
+rmm overdres.magic 
+ls
+look unboo.magic 
+l
+look this2.magic 
+Y look
+ls
+look this3.magic 
+ls | sort
+Y look
+ls
+rm /tmp/tmp.11142 
+rmm /tmp/tmp.11142 
+ls
+ls | sort
+Y look
+Y loo
+Y look
+ls
+tar cf - decode | wc -c
+wc -c decode
+tar cf /tmp/1 decode
+ls /tmp/1
+file /tmp/1
+ll /tmp/1
+ls
+tar cjvf DIV *
+rm DIV 
+du -sh
+tar cjvf DIV *
+;.\
+]=p./
+'-=\]
+ls\
+\kl jbn
+ls
+file DIV 
+cd
+dmesg 
+y
+reboot
+cd /tmp/
+ll
+totem tmp.10712 
+y
+dmesg 
+y
+df
+ls /media/heihei/
+ls
+d
+f
+dmesg 
+y
+df
+reboot
+y
+dmesg 
+SYNV
+sync
+dmesg 
+y
+dmesg 
+y
+shutdown -h now
+dmesg 
+y
+sudo wd -u
+y
+sync
+ls
+cd _myspace/
+ls
+cd VIDS/
+l
+cd div/
+ls
+tar cjvf D1 2019_04_* 
+l
+watch -n1 "du -sh D1"
+watch -n1 "du -sh D1 D2"
+tar cjvf D2 2019_05_*
+ll 2019_05_02_00_50_38.magic 2019_05_03_01_31_52.magic 2019_05_03_01_48_07.magic2019_05_03_01_36_23.magic 2019_05_03_01_56_45.magic 2019_05_04_01_33_36.magic -h
+ll 2019_05_02_00_50_38.magic 2019_05_03_01_31_52.magic 2019_05_03_01_48_07.magic 2019_05_03_01_36_23.magic 2019_05_03_01_56_45.magic 2019_05_04_01_33_36.magic -h
+ls
+rmm -r D*
+ls
+ll -h
+tar cjvf 111 mobizen_20190430_013748.magic
+ll 111 
+ll 111 -h
+rm 111 
+ls
+ls
+tar cjvf D3 m* d* e* t* u*
+bashrc 
+ll 2019_04_26_00_42_17.magic
+ll 2019_04_26_00_42_17.magic -h
+ll th*
+ll th* -h
+ll 2019_04_26_00_42_17.magic -h
+;s
+ls
+Y look
+ls
+Y look
+ls
+cd ..
+ls
+cd bujJI/
+ls
+nautilus .
+sync
+Y look
+cd ../div/
+Y look
+cd
+cd -
+l
+cd ..
+l
+cd new/
+l
+look nyt513.magic 
+look nyt511.magic 
+cd
+cd ..
+sync
+v
+y
+cd /mnt/_start/_myspace/VIDS/div/
+look this2.magic 
+look this3.magic 
+cd
+l
+mount
+id
+bashrc 
+bind -x '"\e\e":"gnome-screensaver-command -l"'
+nome-screensaver-command -l
+gnome-screensaver-command -l
+sudo apt install gnome-screensaver
+l
+ls
+./a.out 
+gnome-screensaver-command -l
+cd Downloads/
+ls
+new
+vim WhatsApp\ Chat\ with\ d.txt 
+mv WhatsApp\ Chat\ with\ d.txt WhatsApp-D
+vim WhatsApp-D 
+grep -nR dengu 
+grep -nR dengu -l
+ls
+grep -nR "modda" .
+ls
+/usr/bin/vim WhatsApp*
+ls
+rm WhatsApp*
+rmm WhatsApp\ Chat\ with\ _+91\ *
+ls
+/usr/bin/vim WhatsApp*
+ls
+/usr/bin/vim WhatsApp*
+rmm WhatsApp\ Chat\ with\ 491.txt 
+mv WhatsApp\ Chat\ with\ babe.txt WhatsApp-D1
+grep -nR modda
+ls
+/usr/bin/vim WhatsApp*
+ls
+rmm WhatsApp\ Chat\ with\ _+91\ 88852\ 93685_*
+ls
+vim WhatsApp-D1 
+new
+unzip chromedriver_linux64.zip 
+sudo mv chromedriver /usr/bin/
+X
+C
+Z
+C
+bashrc 
+pip install selenium
+Y sudo
+python
+sudo pip2 install selenium
+python2.7
+python3
+sudo pip3 install selenium
+python3
+vim ~/.python_history 
+python2.7
+python3
+vim
+cd /tmp/
+vim wa.py 
+chmod +x wa.py 
+./wa.py 
+vim
+./wa.py 
+vim
+./wa.py 
+vim wa.py 
+./wa.py 
+vim
+./wa.py 
+vim
+./wa.py 
+cd /mnt/_start/_myspace/VIDS/div/
+ls
+Y look
+cd
+sudo umount /mnt 
+1booty
+rm chromedriver_linux64.zip 
+l
+new
+unzip chromedriver_linux64.zip 
+sudo mv chromedriver /usr/bin/chromedriver 
+cd
+git clone 
+git clone  https://github.com/mgp25/WA-Tracker.git
+cd WA-Tracker/
+ls
+php watracker.php
+sudo apt install php7.2-cli
+php watracker.php
+php watracker.php 8499975077
+ls
+cd
+git clone https://github.com/mgp25/WART.git
+cd WA
+cd WART/
+ls
+cd ..
+ls
+cp wa.py ~/
+cd
+vim wa.py 
+./wa.py 
+vim wa.py 
+python3
+vim
+vim wa.py 
+./w
+./wa.py 
+vim ~/.python_history 
+./wa.py 
+vim wa.py 
+./wa.py 
+send uma
+man notify-send 
+python3
+vim mail.py
+python3 mail.py 
+vim mail.py 
+python3 mail.py 
+vim mail.py 
+python3 mail.py 
+vim mail.py 
+vim wa.py 
+l
+ls
+la mail.py 
+vim wa.py 
+./wa.py 
+vim
+./wa.py 
+vim wa.py 
+./wa.py 
+reboot
+ls
+nautilus .
+kill totem
+pkill totem
+cd
+cd /mnt/
+la
+cd 
+cd $OLDPWD/
+ls
+cd _start/
+ls
+bluetoothctl 
+sudo wd -u
+y
+ls
+cd _myspace/
+ls
+cd ..
+ls
+vim wa.py 
+./wa.py 
+vim wa.py 
+./wa.py 
+vim wa.py 
+./wa.py 
+vim
+./wa.py 
+sudo umount /mnt 
+reboot
+adb devices i2a.c 
+adb devices 
+y
+sudo wd -u
+y
+\
+ls
+adb pull /storage/emulated/0/show_box
+ls
+ls show_box/
+mv show_box/ Terminator/
+find | grep -i jud
+mv Transporter/Terminator.2.Judgement.Day.1991.1080p.5.1CH.Ganool.Farda.DL.mkv Terminator/
+ls
+du -sh
+2123
+adb shell 
+ls
+cd mi
+cd misc/
+ls
+adb pull /storage/emulated/0/Download/tmp 
+ls
+ls tmp/Harry.Potter.And.The.Chamber.of.Secrets.2002.EXTENDED.REPACK.720p.Farsi.Dubbed.\(2Dooble\)-\[Bi-3-Seda.Ir\].mkv 
+cd ..
+mkdir harrypotter/Harry.Potter.And.The.Chamber.of.Secrets.2002
+cd -
+mv misc/tmp/Harry.Potter.And.The.Chamber.of.Secrets.2002.EXTENDED.REPACK.720p.Farsi.Dubbed.\(2Dooble\)-\[Bi-3-Seda.Ir\].mkv harrypotter/Harry.Potter.And.The.Chamber.of.Secrets.2002/
+ls
+find | grep -i dumb
+ls
+find | grep -i transp
+mv starwars/The.Transporter.2002.1080p.BrRip.x264.YIFY+HI.mp4 Transporter/
+find | grep -i back
+find | grep -i backt
+find | grep -i future
+mkdir BackToTheFuture
+cd ..
+mv ./misc/Back.To.The.Future.Part.III.1990.1080p.BluRay.H264.AAC-RARBG/ BackToTheFuture/
+mv Transporter/Back.To.The.Future.1985.1080p.Farda.DL.mkv BackToTheFuture/
+ls
+ls horror/
+mv horror/ Insidious
+ls misc/
+cd misc/
+ls
+mv Aladdin\ \(2019\)\ \[WEBRip\]\ \[1080p\]\ \[YTS.LT\]/ ../DCEU/Disney/
+ls
+ls ../DCEU/Disney/Aladdin
+ls ../DCEU/Disney/Aladdin\ \(2019\)\ \[WEBRip\]\ \[1080p\]\ \[YTS.LT\]/
+ls
+\mkdir Conjuring
+cd ..
+mv Annabell* Conjuring/
+ls *Conju*
+mv The\ Conjuring\ 2\ \(2016\)\ \[1080p\]\ \[YTS.AG\]/ Conjuring/
+ls
+ls Ghost.Rider.Spirit.of.Vengeance.2011.1080p.Farda.DL.mkv 
+mkdir Jurassic
+cd ..
+mv Jurassic* Jurassic
+ls
+mkdir Scream
+cd ..
+mv Scream* Scream
+ld
+ls
+mv Kung\ Fu\ Panda\ 3\ \(2016\)\ 1080p\ BrRip_AVADL.BiZ.mkv ../KungFuPanda/
+mv The\ Lion\ King\ 1\ 1.2\ \(2004\)\ \[1080p\]/ ../LK2/
+mv The\ Nun\ \(2018\)\ \[WEBRip\]\ \[1080p\]\ \[YTS.AM\]/ Conjuring/
+l
+mv Avengers.
+mv Avengers.* ../Marvel/
+mv Batman.Hush.2019.1080p.WEBRip.x264-RARBG/ ../DCEU/
+mkdir Leo
+cd ..
+mv The\ Revenant\ \(2015\)\ 1080p\ BrRip\ x265_AVADL.Mkv The.Departed.2006.1080p.BRrip.Farda.DL.mkv Shutter.Island.2010.1080p.Farda.DL.mp4 Leo/
+mv Django.Unchained.2012.1080p.Ganool.Farda.DL.mkv Leo/
+ls
+mv Mary\ Poppins\ Returns\ \(2018\)\ \[BluRay\]\ \[1080p\]\ \[YTS.AM\]/ ../DCEU/Disney/
+mv ../DCEU/Disney/ ../
+mv Cinderella\ \(2015\)\ \[1080p\]/ ../Disney/
+ls
+mkdir Toy.Story.3
+mv ../Toy.Story.3.2010.1080p.Farda.DL.mkv .
+ls
+cd ..
+mkdir ToyStory
+cd ..
+mv Toy* ToyStory/
+ls
+ls tmp/
+mkdir GhostRider
+cd ..
+mv tmp/Ghost.Rider.2007.1080p.BrRip.YIFY.Farda.DL.mp4 GhostRider/
+mv Ghost.Rider.Spirit.of.Vengeance.2011.1080p.Farda.DL.mkv GhostRider/
+ls
+mv Moana\ \(2016\)\ \[1080p\]\ \[YTS.AG\]/ ../Disney/
+ls tmp/
+cd ..
+find 
+find -type f
+ll Terminator/show_box/.b7a8e451e530117a874d22756aeb97850b74a814.parts 
+ll Terminator/show_box/.b7a8e451e530117a874d22756aeb97850b74a814.parts  -h
+ls
+ls Prisonbreak/
+mv Prisonbreak/Scream\ 3\ \(2000\)\ BrRip\ 1080p\ x265_AVADL.CoM.mkv misc/Scream/
+ld
+ls
+sync 
+du -sh
+sudo ls
+cd
+cd /mnt/
+cd _start/
+s
+ls
+tm
+ls tm
+ls misc/
+ls misc/tmp/
+totem misc/tmp/Jack\ the\ Giant\ Slayer\ \(2013\)\ BluRay\ 1080p\ \[\(film2serial.ir\)\].mkv 
+sync
+cd 
+umount /mnt 
+sudo umount /mnt 
+sync
+dmesg 
+reboot
+e
+ls
+cd GES_stack/
+ls
+cd ..
+cd -
+vim network_stack.c 
+cp network_stack.c /tmp/
+sudo shutdown -h now
+xrandr -o right 
+xrandr -o left
+y
+fuser
+sudo wd -u
+y
+mkdir GOT
+wget -r -c --no-parent
+wget -r -c --no-parent http://killiancorbel.com/p/Game.of.Thrones.S04.MULTI.Extra.Bonus.1080p.Bluray.HEVC.AAC.5.1.x265/Game.of.Thrones.Season.04/
+ls
+cd _my
+cd ..
+cd _my
+ls
+cd
+sudo wd -u
+y
+df
+ls/mnt
+ls /mnt
+dmesg 
+df
+sudo umount /mnt 
+y
+df
+umount -a
+sudo umount -a
+dme
+t
+y
+sudo wd -u
+y
+ls
+cd GOT/killiancorbel.com/p/Game.of.Thrones.S04.MULTI.Extra.Bonus.1080p.Bluray.HEVC.AAC.5.1.x265/Game.of.Thrones.Season.04/
+s
+;s
+ls
+mkdir ../../../../../GOT/s04
+ls
+cd -
+ls
+mv Game.of.Thrones.S04E01.Two.Swords.1080p.bluray.HEVC.AAC.5.1.x265.Darkoz21.mkv $OLDPWD 
+ls
+cd $OLDPWD
+s
+l
+ls
+cd ..
+ls
+rmm -r killiancorbel.com/
+cd ..
+cd _myspace/VIDS/div/
+ls
+Y totem
+ls -1
+ll
+Y look
+sudo su
+cd ..
+c
+cd 6T_VIDEOS/
+l
+nautilus .
+vlc .
+cvlc
+df
+vlc
+l
+nautilus .
+cd
+l
+vim wa.py 
+./wa.py 
+xrandr -o normal 
+cat wa.py 
+umount /mnt/passport 
+df
+sudo umount /mnt/
+df
+sudo umount /dev/sda1 
+sync
+shutdown -r now
+ll /tmp/ -h
+sudo cp /tmp/tmp.2295 /umas/
+sync
+mount
+ls
+df
+mount
+ls /run/user/1000/gvfs/
+adb shel
+adb shell
+ls
+cd ../..
+ccd ..
+c
+cd GOT/
+adb pull 
+adb pull /storage/emulated/0/Download/Game.of.Thrones.S05E01.The.Wars.to.Come.1080p.bluray.HEVC.AAC.5.1.x265.Darkoz21.mkv
+adb pull /storage/emulated/0/Download/Game.of.Thrones.S05E02.The.House.of.Black.and.White.1080p.bluray.HEVC.AAC.5.1.x265.Darkoz21.mkv
+adb pull /storage/emulated/0/Download/GOT 
+adb rm -r /storage/emulated/0/Download/GOT 
+cd ../Amrutham/
+ls
+adb pull /storage/emulated/0/Video
+adb rm /storage/emulated/0/Video
+adb shell rm /storage/emulated/0/Video
+adb shell rm /storage/emulated/0/Video -r
+sync
+sudo wd -u
+y
+cd _myspace/VIDS/div/
+look this1.magic 
+sync
+adb
+cd ..
+cd Amrutham/
+adb pull /storage/emulated/0/Video
+l
+cd /tmp/
+html2text
+Y
+run amma html/
+sudo umount /dev/sda1 
+pkill adb
+sudo umount /dev/sda1 
+l
+cd html/
+ls
+cd ..
+cd messages/
+ls
+vim 9.html 
+sudo cp 37.html 9.html 7.html 40.html /umas/
+cd /umas/
+sudo su
+google-chrome-stable 37.html 
+grep -i shuf *
+grep -i shuf 
+grep -ir shuf 
+grep -ir shuf  -o
+vim 37.html 
+sudo su
+cvlc
+sudo chmod 0777 /umas/
+cvlc
+ls
+cvlc
+cd /umas/
+nautilus .
+cd ..
+ls
+adb pull /storage/emulated/0/Download/facebook-umasraZ.zip
+man zip
+man unzip
+unzip facebook-umasraZ.zip -d /tmp/
+cd /tmp/
+l
+cd messages/
+grep -nri "shufl"
+grep -nri "shuff"
+grep -nri "shuff" -o
+grep -nri "shuffl" -o
+grep -nri "shuffl" 
+vim 37.html 
+df
+xrandr -o left 
+xrandr -o normal 
+cd ..
+sudo rm -r /umas/
+s
+ls
+sync
+sid
+sudo wd -u
+y
+dmesg 
+dme
+dmesg 
+df
+dmesg 
+y
+df
+cd /media/heihei/20160907_110626
+ls
+sl
+cd
+y
+dmesg 
+]
+sudo wd -u
+y
+dme
+dmesg 
+df
+dmesg 
+y
+reboot
+dme
+dmesg 
+df
+ls /dev/sda1 
+ls
+y
+c
+cccc
+reboot
+sudo wd -u
+y
+dmesg 
+df
+dmesg 
+y
+c
+ls
+ls /mnt/
+ls /mnt/passport/
+ls
+t
+dmesg 
+ls
+df
+ls
+ls /dev/
+ls /dev/sda1 
+mount
+df
+strace df
+df
+df
+dmesg 
+sudo wd -u
+dmesg 
+df
+file /dev/sda1 
+dmesg 
+file /dev/sda1 
+y
+~~~;s~~~;s
+ls
+l
+cd ..
+cd -
+ls
+find
+l
+ls
+cd VI
+ls
+cd ..
+cd VIFD
+cd VVIDS
+cd VIDS
+ls
+cd _myspace/
+ls
+cd VIDS/
+ls
+cd ..
+find
+cd .
+cd ..
+find
+ls
+syc
+sync
+fid
+find
+cd
+df
+dmesg 
+ls /dev/sda1 
+mount
+ls /tmp/
+ls /tmp/uma1 -l
+df
+ls /MNT
+ls /mnt/
+l
+ls
+cd /mnt/
+cd
+cd -
+ls
+cd _start/
+ls
+find
+cd ..
+ls
+find
+df
+cd
+l
+ls
+mount
+sudo umount /dev/sda1
+dmesg 
+df
+y
+ls
+sudo dd if=/dev/sda1 of=/tmp/uma1 bs=4M count=1
+file /tmp/uma1 
+df
+sudo umount -
+sudo umount -a
+reboot
+dmesg 
+df
+dmesg 
+t
+df
+y
+find
+sync
+cp ./LightsOut/Lights-Out-.mp4 /tmp/
+ls
+t
+ls /tmp/
+ls /tmp/l
+ls /tmp/Lights-Out-.mp4 
+ls /tmp/Lights-Out-.mp4 -l
+ls /tmp/Lights-Out-.mp4 -lh
+sudo umount /mnt 
+df
+reboot
+df
+cd /media/heihei/mypassport/
+
+cd _start/
+ls
+cd .
+he
+ls
+cd _myspace/
+ls
+file *
+hexdump 2019_04_26_00_42_17.magic -C -n100
+file 2019_04_26_00_42_17.magic
+hexdump 2019_04_28_05_25_24.magic -C -n100
+cd
+e
+ls
+cd network_ing/illegal_network/
+s
+ls
+cd /tmp/
+ls
+mkdir rec
+df
+foremost -t mp4 /dev/nvme0n1p6
+ls
+ls output/
+ls output/mp4/
+vim output/audit.txt 
+date
+ls
+l
+sudo foremost -t mp4 /dev/nvme0n1p6
+ls
+sudo rm -r *
+sudo foremost -t mp4 /dev/nvme0n1p6
+ls
+ls output/audit.txt output/audit.txt output/
+cd output/
+ls
+sudo su
+hexdump -C /dev/nvme0n1p6 | grep ftypmp42
+sudo hexdump -C /dev/nvme0n1p6 | grep ftypmp42
+df
+df -h
+sudo hexdump -C /dev/nvme0n1p6
+sudo hexdump -C /dev/nvme0n1p6 | grep mp4
+sudo hexdump -C /dev/nvme0n1p6 | grep mp42
+sudo hexdump -C /dev/nvme0n1p6 | grep ftyp
+sudo hexdump -C /dev/nvme0n1p6 | grep is0
+sudo hexdump -C /dev/nvme0n1p6 | grep iso
+sudo hexdump -C /dev/nvme0n1p6 | grep isomp
+cd
+umount /media/heihei/mypassport 
+df
+fg
+ls
+df
+cd /media/heihei/
+ls
+reboot
+sudo reboot
+ls
+find
+cd me/
+cd mIsc/
+ls
+vim rev_num.c 
+make rev_num
+vim
+make rev_num
+./a.
+./rev_num 
+vim
+cal
+ls
+ls debug_oops/
+ls
+vim 1.c 
+l
+python
+vim 11.c
+grep -nri "shuffl" 
+gcc 11.c 
+vim 11.c
+gcc 11.c 
+vim 11.c 
+gcc 11.c 
+python
+vim qs.c
+gcc qs.c 
+vim
+vim qs.c 
+gcc qs.c 
+vim foo.c
+gcc foo.c 
+vim
+gcc foo.c 
+ls
+ps
+df
+cd /media/heihei/mypassport/
+ls
+cd _start/
+ls
+mkdir Amrutham
+adb devices
+adb pull /storage/emulated/0/Video/
+adb shell rm -r /storage/emulated/0/Video/
+sync
+ls
+cd /tmp/
+adb pull /storage/emulated/0/DCIM/Camera/VID_20190901_032815.mp4 
+cd /media/heihei/mypassport/
+cd _myspace/
+s
+ls
+gpg -c /tmp/VID_20190901_032815.mp4 
+ls
+cd /tmp/
+s
+ls
+totem VID_20190901_032815.mp4
+rm VID_20190901_032815.mp4
+rmm VID_20190901_032815.mp4
+ls
+file VID_20190901_032815.mp4.gpg 
+gpg VID_20190901_032815.mp4.gpg 
+ls
+file VID_20190901_032815.mp4
+totem VID_20190901_032815.mp4`
+totem VID_20190901_032815.mp4
+ls
+rmm VID_20190901_032815.mp4
+ls
+gpg -c adb.1000.log 
+gpg  adb.1000.log.gpg 
+mv VID_20190901_032815.mp4.gpg /media/heihei/mypassport/_myspace/
+adb pull /storage/emulated/0/DCIM/Camera/VID_20190*
+adb shell ls /storage/emulated/0/DCIM/Camera/V
+adb  shell 
+adb shell ls /storage/emulated/0/DCIM/Camera/V
+adb pull /storage/emulated/0/DCIM/Camera/V
+ls
+cd V/
+ls
+for each in `ls`; do gpg -c $each; done
+ls
+rm *.mp4
+ls
+ls -lh
+file VID_20190831_002922.mp4.gpg
+gpg VID_20190831_002922.mp4.gpg
+ls
+totem VID_20190*mp4
+rm VID_20190*mp4
+ls
+mv * /media/heihei/mypassport/_myspace/
+ls
+ls /media/heihei/mypassport/_myspace/
+cd
+sudo umount /media/heihei/mypassport 
+pkill adb
+sudo umount /media/heihei/mypassport 
+df
+ls /media/heihei/mypassport/_myspace/ -l
+ls /media/heihei/mypassport/_myspace/ -lh
+cd /tmp/ && gpg /media/heihei/mypassport/_myspace//VID_20190831_002922.mp4.gpg
+ls
+rmm VID_20190*
+cd /tmp/ && gpg /media/heihei/mypassport/_myspace//VID_20190831_002922.mp4.gpg
+ls
+file /media/heihei/mypassport/_myspace//VID_20190831_002922.mp4
+totem /media/heihei/mypassport/_myspace//VID_20190831_002922.mp4
+rm /media/heihei/mypassport/_myspace//VID_20190831_002922.mp4
+cd -
+s
+ls
+cd /media/heihei/mypassport/
+cd _start/
+adb pull //storage/emulated/0/show_box
+sync
+adb shell rm -r //storage/emulated/0/show_box
+ls
+ls show_box/
+find -empty 
+find -empty -delete 
+l
+ls
+l
+ls
+df
+ls /media/heihei/
+sync
+cd
+sudo umount /media/heihei/mypassport 
+pkill adb
+sudo umount /media/heihei/mypassport 
+sudo umount /media/heihei/*
+sudo umount /media/heihei/WD*
+sudo rm  /media/heihei/WD*
+sudo rm  -d /media/heihei/WD*
+sudo rm  -d /media/heihei/20160907_110626* 
+ls
+cat failsafe 
+vim rle.c 
+ls
+ls snap/
+adb shell
+cd
+ls
+df
+cd /media/heihei/mypassport/
+s
+ls
+cd _start/
+cd ../_myspace/
+ls
+LL -H
+ll -h
+man gpg
+gpg -d VID_20190831_024132.mp4.gpg -o /tmp/11
+ln -s VID_20190831_024132.mp4.gpg /tmp/
+ls
+ls /tmp/
+cd /tmp/
+dc V
+cd V
+ls
+cd ..
+file VID_20190831_0
+file VID_20190831_0*
+cd -
+cd /media/heihei/mypassport/_myspace/
+ls
+cp VID_20190831_024132.mp4.gpg /tmp/
+ls
+ls /tmp/VID_20190831_002922.mp4 
+ls /tmp/VID_20190831_002922.mp4 -lh
+rmm /tmp/VID_20190831_002922.mp4 
+cp VID_20190831_024132.mp4.gpg /tmp/
+file VID_20190831_024132.mp4.gpg
+cp VID_20190831_024132.mp4.gpg /tmp/V
+cd /tmp/V
+l
+gpg -d VID_20190831_024132.mp4.gpg 
+gpg  VID_20190831_024132.mp4.gpg 
+ls
+filw VID_20190831_024132.mp4
+file VID_20190831_024132.mp4
+totem VID_20190831_024132.mp4
+xrandr -o normal 
+totem VID_20190831_024132.mp4
+rmm *
+l
+cd -
+s
+ls
+ll
+ll -h
+cp VID_20190901_035116.mp4.gpg /tmp/V
+cd /tmp/V/
+ls
+gpg VID_20190901_035116.mp4.gpg 
+l
+totem VID_20190901_035116.mp4
+rmm *
+l
+ls
+cd ..
+ls
+d
+ls
+vim WhatsApp-D1 
+df
+mount
+X l
+Y ls
+ls /run/user/1000/gvfs/
+Y ls
+ls
+sudo su
+bashrc 
+Y
+ls /mnt/
+ls /mnt/windows/
+ls /mnt/wp
+ls /mnt/passport/
+mkdir /mnt/6T
+sudo mkdir /mnt/6T
+cd /mnt/6T/
+ls
+sudo jmtpfs /mnt/6T/
+cd
+sudo jmtpfs /mnt/6T/
+ls /mnt/6T/
+sudo su
+cd
+xrandr -o right 
+cd /media/heihei/mypassport/_start/
+ls
+cd show_box/
+adb devices
+adb pull /storage/emulated/0/show_box/The Lord of the Rings The * .
+adb pull /storage/emulated/0/show_box/*
+adb pull /storage/emulated/0/show_box/
+sync
+cd
+sudo umount /media/heihei/mypassport 
+pkill adb
+sudo umount /media/heihei/mypassport 
+reboot
+dmesg 
+tput 
+dmesg 
+ls
+./a.out 
+./a.out .
+./a.out 
+symbols a.out 
+l
+ls
+cat failsafe 
+vim wa.py 
+ls
+./rle 
+vim rle.c 
+l
+ls Documents/
+ls
+./a.out.
+./a.out 
+cat tst.c 
+l
+./rle 
+vim vec.cpp 
+ls
+./a.out 
+cat uma.ecos.git 
+ls
+vim loop.c 
+./a.out 
+reboot
+ls
+ls *
+file *
+ls -i
+s
+ls
+s
+ls -i
+pkill vim
+ps -ef | grep vim
+kill -9 2590
+ls
+ll
+a
+cd ..
+cd _start/
+ls
+cd show_box/show_box/
+ls
+adb pull /storage/emulated/0/show_box
+mv * ..
+ls
+ls show_box/
+cd show_box/
+ls
+mv * ..
+ls
+cd ..
+l
+rm -d show_box/
+rmm -d show_box/
+l
+mv * ..
+cd ..
+rmm -d show_box/
+ls
+mv * ../
+cd ..
+rmm -d show_box/
+ls show_box/
+rmm -d show_box/
+sync
+rmm -d show_box/
+ls show_box/
+ls
+ls show_box/
+rmm -d show_box/
+cd ..
+ls
+du -sh
+ls
+ls System\ Volume\ Information/
+df
+l
+ls
+sync
+l
+adb shell 
+ls
+s
+cd _myspace/
+ls
+ls .2019_04_26_00_42_17.magic.swp 
+file .2019_04_26_00_42_17.magic.swp 
+rmm -rf .2019_04_26_00_42_17.magic.swp 
+syn
+sync
+ls
+sybc
+s
+~
+pkill adb
+la
+cd
+sudo umount /media/heihei/mypassport 
+la
+vim .new_bkup 
+reboot
+ls
+cd /tmp/
+ls
+gpg -c adb.1000.log -o /home/heihei/11
+gpg -o /home/heihei/11 -c adb.1000.log 
+file /home/heihei/11 
+rm /home/heihei/11 
+ls
+cd SC/
+ls
+ll
+gpg -o /media/heihei/mypassport/_myspace/19-08-25-20-24-28.mp4.gpg -c 19-08-25-20-24-28.mp4 
+
+gpg -o /home/heihei/ -c adb.1000.log 
+v
+gpg -o /media/heihei/mypassport/_myspace/19-08-30-09-19-59.mp4.gpg -c 19-08-30-09-19-59.mp4
+ll
+gpg -o /media/heihei/mypassport/_myspace/19-08-30-09-27-24.mp4.gpg -c 19-08-30-09-27-24.mp4
+gpg -o /media/heihei/mypassport/_myspace/19-08-30-09-41-25.mp4.gpg -c 19-08-30-09-41-25.mp4
+sync
+df
+cd /media/heihei/mypassport/
+ls
+cd _start/
+ls
+cd ..
+ls
+cd _myspace/
+file *
+vim 2019_04_26_00_42_17.magic 
+s
+l
+s
+ls
+file *
+adb pull
+adb devices
+reset
+adb shell
+cd /tmp/ && adb pull /storage/emulated/0/Movies/SC/
+rmm -rf SC/
+sync
+adb shell rm /storage/emulated/0/Movies/
+adb shell rm -r /storage/emulated/0/Movies/SC
+syn
+adb shell
+y
+ls
+df
+cd /media/heihei/mypassport/
+ls
+cd _start/Amrutham/
+ls
+cd Video/
+ls
+adb pull /storage/emulated/0/Video/
+l
+mv Video/* .
+l
+ls Video/
+rm -d Video/
+rmm -d Video/
+sync
+l
+cd ..
+ls
+cd ..
+ls
+sync
+cd
+pkill adb
+sudo umount /media/heihei/mypassport 
+reboot
+ls
+ls Video/
+cd ..
+l
+ls
+cd ..
+ls
+ls mahabharat/
+ls mahabharat/New\ folder/
+ls
+l
+ls
+sync
+pkill dadb
+pkill adb
+adb shell
+cd /media/heihei/mypassport/
+ls
+cd _start/
+mkdir YT
+ls
+adb pull /storage/emulated/0/Video/
+ls
+cd Video/
+l
+mv Amrutham\ Telugu\ Comedy\ Serial\ _\ Amrutham\ * ../../Amrutham/
+ls
+sync
+cd
+sync
+sudo umountu /media/heihei/mypassport/
+sudo umount /media/heihei/mypassport/
+sync
+shutdown now
+ls
+mkdir Now.You.See.Me.2.2016.1080p
+mv ../Now.You.See.Me.2.2016.1080p* .
+ls
+cd ..
+l
+s
+cd /media/heihei/mypassport/
+ls
+find
+find | grep -i ba
+find | grep -i beas
+find | grep -i quie
+find | grep -i us
+ls
+cd _start/
+ls
+cd show_box/
+ls
+cd ..
+rmdir show_box/
+rm -r show_box/
+rmm -r show_box/
+sync
+adb pull /storage/emulated/0/show_box/*
+adb pull "/storage/emulated/0/show_box/*"
+adb pull "/storage/emulated/0/show_box/"
+ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssy
+sync
+adb rm /storage/emulated/0/show_box/
+adb shell rm /storage/emulated/0/Video
+adb shell rm /storage/emulated/0/Video -r
+sync
+cd
+umount $OLDPWD
+cd -
+c
+cd
+umount $OLDPWD
+pkill adb
+umount $OLDPWD
+reboot 
+adb shell
+ls
+./memove 
+././.\
+ps -elf~
+ps -elf
+ls
+ps -fU heihei
+adb shell
+x
+X
+Y
+cd /media/heihei/mypassport/
+ls
+cd _start/
+ls
+Y adb pull
+sync
+cd
+adb kill-server 
+sync
+reboot
+find
+ls
+l
+ls
+cd ..
+l
+ls
+ls Amrutham/
+cd Amrutham/
+find | grep pesal
+find | grep -i pesal
+totem `find | grep -i pesal`
+totem Video/Amrutham\ Telugu\ Comedy\ Serial\ _\ Amrutham\ Best\ Telugu\ Comedy\ Series\ _\ Pesalu-Ward_HIGH.mp4 
+ls
+lw
+;w
+lw
+ls
+totem *
+totem *Bye*
+cd Video/
+ls
+totem *Money*
+ls
+l
+s
+ls Video/
+rm -rf Video/
+rmm -rf Video/
+ls
+cd ..
+ls
+mv Video/* .
+ls
+ls Video/
+rmm -rf Video/
+ls
+sync
+vf
+cd
+cd /media/heihei/mypassport/
+ld
+ls
+cd _start/
+cd show_box/
+ls
+adb pull /storage/emulated/0/show_box 
+sybc
+sync
+cd
+ls
+sudo umount /media/heihei/mypassport 
+pkill adb
+sudo umount /media/heihei/mypassport 
+reboot
+\\
+dmesg 
+ls
+./a.out 
+s
+ls
+df
+cd /media/heihei/b9913dc4-cfc4-4eee-b6a4-ad82f6d74dff/
+ls
+cd l
+cd linux-GIT/
+ls
+make clea
+sudo make clean
+ls
+sudo make distclean
+ls
+cp /boot/config-4.15.0-54-generic .config
+sudo cp /boot/config-4.15.0-54-generic .config
+ls
+vim .config 
+sudo make oldconfig
+agi bison
+agi bison yacc
+sudo make oldconfig
+agi flex
+sudo make oldconfig
+ls
+l
+ls
+pwd
+make -j64
+sudo make -j64
+ls
+git status
+ls
+mkdir Dhianesh
+ll
+ls
+vim dup.c
+reboot
+ls
+cd ..
+ls
+ls lib/modules/4.19.0-rc7+/
+ls
+cd l
+cd li
+ls
+du -sh
+df
+df -h
+ls
+cd ..
+ls
+ls GNU-projects/
+ls
+ls l
+ls GNU-projects/
+ls
+s
+ls
+cd ..
+ls
+cd ..
+ls
+cd
+s
+ls
+ls f
+rm rle 
+vim wa.py 
+l
+ls
+ls ecos/
+ls
+cat uma.ecos.git 
+l
+cat uma
+cat uma.txt 
+rmm uma.txt 
+ls
+ls for-ping/
+cd for-ping/
+ls
+make 
+vim Makefile 
+ls
+cd ..ls
+cd ..
+l
+cat mail.py 
+ls
+python mail.py 
+l
+ls
+[]
+ls
+cd Dhianesh/
+ls
+vim dup.c 
+gcc dup.c 
+vim dup.c 
+gcc dup.c 
+vim dup.c 
+gcc dup.c 
+vim dup.c 
+gcc dup.c 
+ll
+gcc -w dup.c 
+./a.out 
+vim dup.c 
+gcc -w dup.c 
+./a.out 
+vim dup.c 
+gcc -w dup.c 
+./a.out 
+vim dup.c 
+gcc -w dup.c 
+./a.out 
+gcc -w dup.c 
+./a.out 
+gcc -w dup.c 
+./a.out 
+gcc -w dup.c 
+vim dup.c 
+gcc -w dup.c 
+./a.out 
+gcc -w dup.c 
+./a.out 
+gcc -w dup.c 
+./a.out 
+vim dup.c 
+gcc -w dup.c 
+./a.out 
+vim dup.c 
+gcc -w dup.c 
+./a.out 
+vim dup.c 
+gcc -w dup.c 
+./a.out 
+vim dup.c 
+gcc -w dup.c 
+./a.out 
+vim dup.c 
+vim dup
+vim dup.c 
+l
+cd ..
+ls
+ls ecos/
+ls
+vim tst.c 
+s
+mvm
+ld
+ls
+mvm *.c
+ls mIsc 
+file mIsc
+vim mIsc
+ls
+rm mIsc 
+ls
+ln -s mIsc me/mIsc/
+mvm *.c
+ls
+ls me/mIsc/
+ln -s mIsc me/mIsc/
+ln -s me/mIsc/ mIsc
+mvm *.c
+ls
+s
+git diff
+s
+ls
+export ECOS_REPOSITORY=/home/heihei/me/GIT/qca953x_ecos/ecos/packages/
+cd $ECOS_REPOSITORY
+ls
+cd ..
+ls
+cd ecosap/
+ls
+makel
+make
+s
+ls
+ls shell/
+ls
+cd
+s
+ls
+ls ecos/
+mips
+ls
+df
+cd /media/heihei/b9913dc4-cfc4-4eee-b6a4-ad82f6d74dff/
+sl
+ls
+cd linux-GIT/
+sudo make modules_install
+ls
+ls /lib/modules/
+cd /lib/modules/
+ls
+cd /media/heihei/b9913dc4-cfc4-4eee-b6a4-ad82f6d74dff/
+ls
+cd -
+cd /media/heihei/b9913dc4-cfc4-4eee-b6a4-ad82f6d74dff/linux-GIT/
+ls
+sudo make modules_install
+ls
+cd -
+ls
+sudo rm -rf 4.19.0-rc7+/
+cd -
+make modules_instal INSTALL_MOD_PATH=/media/heihei/b9913dc4-cfc4-4eee-b6a4-ad82f6d74dff/
+sudo make modules_instal INSTALL_MOD_PATH=/media/heihei/b9913dc4-cfc4-4eee-b6a4-ad82f6d74dff/
+sudo make modules_install INSTALL_MOD_PATH=/media/heihei/b9913dc4-cfc4-4eee-b6a4-ad82f6d74dff/
+cd /lib/modules/
+ls
+ln -s /media/heihei/b9913dc4-cfc4-4eee-b6a4-ad82f6d74dff/lib/modules/4.19.0-rc7+/ 4.19.0-rc7+
+sudo ln -s /media/heihei/b9913dc4-cfc4-4eee-b6a4-ad82f6d74dff/lib/modules/4.19.0-rc7+/ 4.19.0-rc7+
+ls
+cd /media/heihei/b9913dc4-cfc4-4eee-b6a4-ad82f6d74dff/
+ls
+cd linux-GIT/
+sudo make install
+reboot
+uname -a
+s
+ls
+lsmod 
+reboot
+uname -a
+l
+la
+l
+pwd
+s
+ls
+ls /lib/modules/4.19.0-rc7+
+ls /lib/modules/4.19.0-rc7+/source/
+pwd
+ls
+cd /media/heihei/b9913dc4-cfc4-4eee-b6a4-ad82f6d74dff/
+ls
+sudo rm -rf linux-GIT/
+sudo rm -rf lib/
+s
+ks
+ls
+sync
+df
+df -h
+ls
+lsb_release -a
+Y
+rm -rf /tmp/libinput*.deb
+rmm -rf /tmp/libinput*.deb
+ls
+Y
+ls
+mkdir kernel
+sudo mkdir kernel
+ls
+cd kernel/
+Y
+ls
+sync
+reboot
+ls
+s
+ls
+cd ..
+ls
+ls -di
+cd
+ls
+m
+ls
+cd ext4/
+ls
+make dir_ex.c
+make dir_ex
+df
+sudo ./dir_ex /dev/mmcblk0 2
+ls
+make con
+make con*
+make content_ex
+sudo ./content_ex /dev/mmcblk0 2
+vim content_ex.c 
+make content_ex
+sudo ./content_ex /dev/mmcblk0 2
+vim
+make content_ex
+sudo ./content_ex /dev/mmcblk0 2
+vim
+make content_ex
+sudo ./content_ex /dev/mmcblk0 2
+cd /boot/
+ls
+sudo rm -rf *5.0.3* *4.19.0*
+ls
+sudo update-grub
+d
+ls
+cd tor-browser_en-US/Browser/
+ls
+cd ..
+ls
+./start-tor-browser.desktop 
+cd
+ls
+find -name tmp
+m
+ls
+cd ..
+fn links
+fn link
+cd /tmp/
+ls
+find
+ls
+cd Temp-afe4c0f4-993a-4ce4-9e28-87bfaced8efa/mesa_shader_cache/
+ls
+fin
+find
+cd ..
+ls
+find
+sudo find | grep free
+cd mozilla_heihei0/
+ls
+unzip free-vid-cp.zip 
+cd free-vid-cp/Gladiator/
+ls
+ls ..
+ls
+for each in `ls`; do eog $each; done
+reboot
+ls
+l
+ls
+ped
+pwd
+ped
+pwd
+pdw
+pwd
+ls
+mkdir go
+vim xor.c
+Y wget 
+vim solution.c 
+;gcc solution.c
+gcc solution.c 
+vim
+gcc solution.c 
+vim
+vim h.c
+g++ h.c
+./a.out 
+vim h.c 
+g++ h.c
+./a.out 
+vim
+./a.out 
+vim
+ls
+cd
+ls
+cd mw
+cd mIsc/
+ls
+vim rle.c 
+vim bb.c
+ls
+(0; 
+sudo pip3 install re
+python3
+python2.7
+exit
+ls
+cd
+ls
+m
+ls
+ls *.cpp
+ls *.cc
+ls
+cd ..
+ls
+cd meq
+ls *.cc
+ls *.ccp
+ls *.cpp
+ls
+cd
+grep -nR vector
+grep -nR "vector<"
+grep -nR "vector<" | less
+ls
+cd me/
+grep -nR "vector<" --exclude-dir=GIT
+cd ..
+grep -nR "vector<" --exclude-dir=GIT
+vim vec.cpp 
+vim uma
+vim uma.cpp 
+vim mp.cc
+vim mp.cc 
+g++ mp.cc
+vim
+ls /usr/include/c++
+cd /usr/include/c++
+find | grep boost
+Y
+find | grep boost
+ls
+cd ..
+ls
+find | grep boost
+cd
+ls
+vim uma.
+vim uma.cpp 
+cd me/
+ls
+cd mIsc/
+ls
+vim
+cd
+ls
+g++ mp.cc 
+./a.out 
+vim
+g++ mp.cc 
+./a.out 
+vim
+g++ mp.cc 
+vim
+g++ mp.cc 
+./a.out 
+vim
+g++ mp.cc 
+./a.out 
+vim
+lx
+ls
+vim
+exit
+iwconfig 
+reboot
+dmesg 
+df
+dmesg 
+CC
+dmesg 
+shutdown now
+ls
+cd ../..
+l
+cd mahabharat/
+l
+cd FROM-95/
+s
+totem ep139.mp4 
+ls
+cd ../..
+ls
+cd _start/
+ls
+ls show_box/A\ Quiet\ Place\ \(2018\)\ \[WEBRip\]\ \[1080p\]\ \[YTS.AM\]/A.Quiet.Place.2018.1080p.WEBRip.x264-\[YTS.AM\].mp4 
+totem show_box/A\ Quiet\ Place\ \(2018\)\ \[WEBRip\]\ \[1080p\]\ \[YTS.AM\]/A.Quiet.Place.2018.1080p.WEBRip.x264-\[YTS.AM\].mp4
+google-chrome
+exit
+cd /media/heihei/mypassport/_start/misc/
+ls
+cd show_box/
+ls
+rm -rf Hotel\ Transylvania\ 2\ \(2015\)\ \[1080p\]/
+ls
+cd ..
+ls
+adb pull /storage/emulated/0/Download/MISC 
+ls
+cd MISC/
+ls
+du -sh
+ls
+1
+ls
+adb pull /storage/emulated/0/Download/MISC 
+sync
+adb shell rm -r /storage/emulated/0/Download/MISC 
+sync~
+sync
+reboot'
+
+
+
+'
+reboot
+LS
+ls
+cd show_box/
+ls
+ls Shazam.2019.1080p.BluRay.x264.DTS-FGT/
+cd Shazam.2019.1080p.BluRay.x264.DTS-FGT/
+ls
+du -sh
+ls
+cd ..
+ls
+cd -
+cd show_box/
+ls
+cd Shazam.2019.1080p.BluRay.x264.DTS-FGT/
+ls
+cd ..
+ls
+find -empty 
+find -empty -delete 
+ls
+mv Shazam.2019.1080p.BluRay.x264.DTS-FGT/ ..
+ls
+cd ..
+ls
+find -empty 
+find -empty -delete 
+ls
+adb shell
+cd /media/heihei/mypassport/
+ls
+cd _start/
+ls
+mkdir misc
+adb pull /storage/emulated/0/show_box
+ls
+cd show_box/
+ls
+rmm -rf Shazam.2019.1080p.BluRay.x264.DTS-FGT/
+sync
+ls Toy.Story.
+ls Toy.Story.*
+rmdir *
+ls
+find -empty 
+find -empty -delete 
+find -empty 
+ls
+adb pull /storage/emulated/0/show_box
+ls
+cd show_box/Shazam.2019.1080p.BluRay.x264.DTS-FGT/
+ls
+file *
+l
+ls
+cd ..
+ls
+ls ..
+ls
+cd ..
+ls
+cd -
+du -sh
+ls
+fin
+find
+cd ..
+ls
+cd -
+cd 
+cd -
+ls
+adb pull /storage/emulated/0/show_box
+adb shell rm -rf /storage/emulated/0/show_box
+cd /media/heihei/mypassport/
+ls
+cd _myspace/
+ls
+file *
+Y look
+upower -i /org/freedesktop/UPower/devices/battery_BAT0
+ll -1
+man gpg
+gpg -c VID_20190824_150622.mp4.gpg -o /tmp/xx
+gpg -o /tmp/xx -c VID_20190824_150622.mp4.gpg 
+man gpg
+gpg -o /tmp/xx -d VID_20190824_150622.mp4.gpg 
+totem /tmp/xx 
+gpg -o /tmp/xx -d VID_20190831_024037.mp4.gpg
+totem /tmp/xx 
+Y gpg -o /tmp/xx -d 
+totem /tmp/xx 
+Y gpg -o /tmp/xx -d 
+totem /tmp/xx 
+ls
+Y look
+l
+ls
+cd ..
+ls
+cd _start/
+ls
+cd show_box/
+ls
+mv show_box/* ..
+ls
+rm -d show_box/
+rmm -d show_box/
+mv * ..
+ls
+cd ..
+rmm -d show_box/
+synv
+sync
+rmm -d show_box/
+l
+totem /tmp/xx 
+shutdown now
+find | grep -i green
+\ls
+ls
+adb pull /storage/emulated/0/Download/GOT
+adb shel rm -r /storage/emulated/0/Download/GOT
+adb shell rm -r /storage/emulated/0/Download/GOT
+ls
+mv 19-10-05-* ../_myspace/
+ls
+cd ../_myspace/
+ls
+file *
+adb pull /storage/emulated/0/Movies/Screen Recorder/
+adb pull /storage/emulated/0/Movies/Screen Recorder 
+adb pull /storage/emulated/0/Movies/Screen\ Recorder 
+ls
+ls Screen\ Recorder/
+rmm -rf Screen\ Recorder/
+cd /tmp/
+adb pull /storage/emulated/0/Movies/Screen\ Recorder 
+cd Screen\ Recorder/
+ls
+for each in `ls`; do gpg -c -o /media/heihei/mypassport/_start/$each.gpg $each; done
+ls
+cd /media/heihei/mypassport/_start/
+ls
+adb shell rm -r /storage/emulated/0/Movies/Screen\ Recorder 
+adb shell 
+ls
+gpg adb.1000.log -o /home/heihei/1.
+gpg adb.1000.log -o /home/heihei/1
+man gpg
+gpg -c adb.1000.log -o /home/heihei/1
+gpg -c -o /home/heihei/1 adb.1000.log 
+file ~/1
+gpg ~/1 
+ls
+cat hhhh 
+cat adb.1000.log 
+adb shell
+sdb devi
+sdb devic
+adb devices
+cd /media/heihei/mypassport/
+l
+cd _start/
+ls
+l show_box/.backup/
+cd ..
+ls
+cd -
+ls show_box/
+rmm -rf show_box/
+adb pull /storage/emulated/0/show_box
+sync
+ls
+cd
+sync
+sudo umount /media/heihei/mypassport 
+cd /tmp/
+nautilus .
+shutdown 
+shutdown now
+ls
+cd /tmp/
+unrar
+y
+Y
+unrar BSP.rar
+ls
+ll
+mkdir 1
+unrar ../BSP.rar
+ls
+cp ../BSP.rar .
+unrar ./BSP.rar
+ls
+nautilus .
+less BSP.rar 
+cd ..
+less BS*
+sudo less BS*
+cd 
+cd -
+cd 1
+ls
+sudo unrar *
+ls
+sudo less BSP.rar 
+man unrar
+sudo unrar -x BSP.rar 
+ls
+ll
+chmod 0666 BSP.rar 
+nautilus .
+ll
+chmod 0777 BSP.rar 
+nautilus .
+ls
+less BSP.rar 
+sudo less BSP.rar 
+sudo less BSP.rar  > /tmp/1/11
+file 11
+ls 11
+ll 11
+chmod 0777 11 
+nautilus .
+ls
+ll
+mv ../BSP.rar /home/heihei/Downloads/
+cd /home/heihei/Downloads/
+ls
+mkdir tor
+mv ../BSP.rar .
+unrar e  BSP.rar 
+ls
+sudo unrar e  BSP.rar 
+ls
+file BSP.rar 
+nautilus .
+sudo nautilus .
+ls
+unrar l BSP.rar 
+sudo unrar l BSP.rar 
+unrar l BSP.rar 
+unrar e BSP.rar 
+sudo unrar e BSP.rar 
+ls
+cd ..
+ls
+cd ../Desktop/
+ls
+cd ..
+cd Documents/
+ls
+cd
+cd Downloads/
+ls
+cd tor
+cd ..
+cd ..-
+cd Downloads/tor-browser_en-US/
+ls
+cd Browser/Desktop/
+ls
+7z e Be_happy.7z 
+l
+unrar e supercarsofsport5.rar 
+ls
+nautilus .
+cd
+ls
+vim l
+cd Downloads/tor-browser_en-US/
+l
+./start-tor-browser.desktop 
+cd
+vim l
+cd /tmp/
+file 11
+vim 11 
+cd
+vim l
+cd
+cd Downloads/
+cd tor-browser_en-US/
+cd Browser/Desktop/
+ls
+7z e 03.7z 
+cd 03/
+ls
+cd ..
+l
+nautilus .
+rmm girls_*
+ls
+cd ..
+rmm -rf ../tor*
+l
+pwd
+cd
+ls
+rm l
+reboot
+dmesg 
+df
+ls /media/heihei/b9913dc4-cfc4-4eee-b6a4-ad82f6d74dff/
+ls /media/heihei/b9913dc4-cfc4-4eee-b6a4-ad82f6d74dff/kernel/
+dme
+dmesg 
+df
+dmesg 
+df
+ls /media/heihei/8184b79f-0fe9-4f84-9808-368620f68e3b/
+ls /media/heihei/8184b79f-0fe9-4f84-9808-368620f68e3b/lost+found/
+ping bing.com
+cd /t,
+cd tm
+cd /tmp/
+Y wget
+df
+dd if=ubuntu-18.04.3-desktop-amd64.iso of=/dev/sda status=progress 
+sudo dd if=ubuntu-18.04.3-desktop-amd64.iso of=/dev/sda status=progress 
+sudo umount /dev/sda 
+df
+/mnt/
+ls /mnt/
+ls /mnt/6T/
+ls /mnt/*
+mount /dev/sda /mnt/windows/
+sudo mount /dev/sda /mnt/windows/
+ls /mnt/windows/
+sync
+sudo umount /dev/sda 
+find
+ls
+ped
+pwd
+ls
+fdisk -l ubuntu-18.04.3-desktop-amd64.iso 
+l
+man dd
+ls
+df
+dmesg 
+mesg 
+dmesg 
+t
+df
+3reboot
+reboot 

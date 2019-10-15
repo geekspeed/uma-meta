@@ -149,7 +149,7 @@ augroup comment_all_file
 	autocmd FileType cpp inoremap <leader>c <esc>0i/*<esc>$a*/
 	autocmd FileType python inoremap <leader>c <esc>maI#<esc>`ai
 	autocmd BufRead,BufNewFile *.txt setlocal filetype=txt
-	autocmd BufRead,BufNewFile *.sh setlocal filetype = ":sh"
+	autocmd BufRead,BufNewFile sh setlocal filetype = "sh"
 	"autocmd FileType sh setlocal spell spelllang=en_us
 "	autocmd FileType c setlocal spell spelllang=en_us
 	autocmd FileType vim setlocal nu

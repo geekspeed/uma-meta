@@ -162,7 +162,6 @@ title() { echo -en "\e];"$1"\007"; }
 # ctrl-I is tab do you know
 #sed l important tells you what you typing
 #if [[ "$string" =~ ^([0-9][0-9]):([0-9][0-9]):([0-9][0-9])$ ]]; then printf 'Got %s, %s and %s\n'     "${BASH_REMATCH[1]}" "${BASH_REMATCH[2]}" "${BASH_REMATCH[3]}"; fi
-export PATH=$PATH:/home/heihei/Downloads/android_tools/platform-tools:/home/heihei/qualcomm/gnutools/mipsisa32-elf/bin
 bind -x '"\e\e":"gnome-screensaver-command -l"'
 vm () {
 
@@ -255,7 +254,6 @@ vim(){
 	#( [[ -z $2 ]] && ( ( [[ -f $1 ]] && /usr/bin/vim $@ ) || vm $1 ) ) || /usr/bin/vim $@
 }
 
-#export PATH=$PATH:/home/heihei/Downloads/aarch64_cross/gcc-linaro-6.3.1-2017.02-x86_64_aarch64-linux-gnu/bin
 tst() {
 	
 	if [[ $1 == *":"* ]]; then
@@ -313,7 +311,6 @@ title(){
   PS1=${ORIG}${TITLE}
 }
 
-export PATH=$PATH:/opt/ecos/gnutools/mipsisa32-elf/bin/:/home/heihei/BBB-uboot/gcc-linaro-6.4.1-2017.11-x86_64_arm-linux-gnueabihf/bin/:
 alias c='cd ..'
 alias v='cd -'
 export INSTALL_DIR=/tftpboot/ebuild/install
@@ -341,7 +338,6 @@ parse_git_branch()
  git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/(\1)/'
 }
 alias G='cd ~/GIT/qca953x_ecos/'
-alias U='make ARCH=arm CROSS_COMPILE=arm-linux-gnueabihf-'
 ncon()
 {
 	 [[ $1 ]] && /usr/bin/nmtui-connect $1 &>/dev/null
@@ -368,7 +364,6 @@ complete -W "--user  --passwd --time  --date  --month  --year  --message -u -m -
 
 alias Umaraju='umaraju'
 alias su='echo -e Be Very Careful && su'
-export PATH=$PATH:/home/heihei/Downloads/aarch64/gcc-linaro-6.2.1-2016.11-x86_64_aarch64-linux-gnu/bin/
 
 log_bash_persistent_history()
 {
@@ -398,7 +393,6 @@ alias mg='mipsisa32-elf-gdb ecosap -q'
 export PATH=$PATH:/opt/qca953x/qca953x_ecos/u-boot/build/gcc-4.3.3/build_mips/staging_dir/usr/bin/
 alias rmm='/bin/rm'
 alias bim='vim'
-export PATH=$PATH:/home/heihei/others/gcc-linaro-6.4.1-2018.05-x86_64_arm-linux-gnueabihf/bin/
 alias new='ll -lrt | tail -3'
 #xrandr -o right
 
@@ -421,4 +415,8 @@ C()
 {
 	`xclip -o`
 }
-export PATH=$PATH:/home/heihei/ecos/gnutools/mipsisa32-elf/bin:
+export PATH=$PATH:/home/heihei/Downloads/MIPS/mipsisa32-elf/bin/
+
+HI(){
+	ionice -c 2 -n 0 nice -n -20 $@
+}
